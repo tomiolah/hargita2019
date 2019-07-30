@@ -24,13 +24,10 @@ Díszes kapukon át mikor vonulsz be már?
 Baruch hábá b’sem!
 (Áldott az Úr neve!)
 
-
-
-[bridge]
+[bridge1]
 /: Neked hódol a teljes föld :/
 
-
-
+[bridge2]
 (Lányok)
 /: Neked hódol a teljes föld :/
 
@@ -40,8 +37,6 @@ Minden térdet hajt örök trónodnál.
 Adonáj, Adonáj!
 Minden nyelv így szól:
 Te vagy Úr, s Király!
-
-
 
 [chorus]
 Adonáj, Adonáj!

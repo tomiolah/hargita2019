@@ -9,8 +9,6 @@ Minden hang és minden kép,
 Minden virág minden szirma,
 Istenről beszél!
 
-
-
 [chorus]
 Amíg dal lesz ajkamon,
 Hirdetem, hogy él az Úr
@@ -20,8 +18,6 @@ Minden percem az Ővé,
 Hálám nem szűnik soha,
 Amíg dal lesz ajkamon,
 Istenről tanúskodom!
-
-
 
 [verse2]
 2. A hegyek és a völgyek,
@@ -34,7 +30,6 @@ Titkon hozzá visz közel
 Minden kérdésre a szívben
 Jézus megfelel!
 
-
 [chorus]
 Amíg dal lesz ajkamon,
 Hirdetem, hogy él az Úr
@@ -45,27 +40,20 @@ Hálám nem szűnik soha,
 Amíg dal lesz ajkamon,
 Istenről tanúskodom!
 
-
-[bridge1]
+[bridge]
 (Fiúk)
 Én megvallom:
 Amíg dal lesz ajkamon,
 Én hirdetem, tisztelem
 Átadva az életem,
-
 Minden percem az Őve
 Én hirdetem, tisztelem,
 Átadva az életem
 
-
-
-
-[bridge2]
 (Fiúk)
 Amíg dal lesz ajkamon,
 Én hirdetem, tisztelem
 Átadva az életem,
-
 (Lányok)
 Amíg dal lesz ajkamon,
 Hirdetem, hogy él az Úr
@@ -73,28 +61,19 @@ Tudom, hogy elfogad és szeret,
 Egyedül csak Ő az Úr
 Istenről tanúskodom!
 
-
-[bridge3]
 (Fiúk)
 Minden percem az Őve
 Én hirdetem, tisztelem,
-
 (Lányok)
 Minden percem az Ővé,
 Hálám nem szűnik soha,
 Amíg dal lesz ajkamon,
 Istenről tanúskodom!
 
-
-
-
-
-[bridge4]
 (Fiúk)
 Amíg dal lesz ajkamon,
 Én hirdetem, tisztelem
 Átadva az életem,
-
 (Lányok)
 Amíg dal lesz ajkamon,
 Hirdetem, hogy él az Úr
@@ -102,22 +81,15 @@ Tudom, hogy elfogad és szeret,
 Egyedül csak Ő az Úr
 Istenről tanúskodom!
 
-
-[bridge5]
 (Fiúk)
 Minden percem az Őve
 Én hirdetem, tisztelem,
-
 (Lányok)
 Minden percem az Ővé,
 Hálám nem szűnik soha,
 Amíg dal lesz ajkamon,
-
 (Együtt)
 Én dícsérem Őt!
-
-
-
 
 [chorus]
 Amíg dal lesz ajkamon,
@@ -129,10 +101,7 @@ Hálám nem szűnik soha,
 Amíg dal lesz ajkamon,
 Istenről tanúskodom!
 
-
-
-
-Ending
+[end]
 Hisz bennem Krisztus él,
 Vigyáz rám és véd,
 Fogom két kezét,
