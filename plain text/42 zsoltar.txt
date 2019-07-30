@@ -1,3 +1,4 @@
+[verse1]
 1. Te vagy az,
 Aki az életem eltervezted
 Te vagy az,
@@ -13,7 +14,7 @@ Mert te vagy Istenem,
 Izráel Szentje
 Örökkévaló Szabadító
 
-Chorus
+[chorus]
 Istenem úgy vágyom rád
 Mint szarvas hűs vízre
 Szomjas lelkem
@@ -23,7 +24,7 @@ Miért csüggednél el
 Bízz, bízz, bízz, csak bízz,
 És adj hálát szabadításáért
 
-Bridge
+[bridge]
 Ha könnyem kenyerem
 Éjjel és nappal
 Ha folyton azzal gúnyolnak:

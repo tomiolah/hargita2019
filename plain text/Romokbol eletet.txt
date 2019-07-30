@@ -1,5 +1,6 @@
 Romokból életet (Glorious Ruins)
 
+[verse1]
 1. Ha hegyek zúgnak 
 Viharok dúlnak 
 Itt vagy velem 
@@ -7,7 +8,7 @@ A test elmúlhat
 A Te irgalmad 
 Őrzi lelkem 
 
-Bridge
+[bridge]
 Ha tűzön viszel át 
 Szívem csak Téged áld 
 Lelkem részévé válik tervednek 
@@ -15,7 +16,7 @@ Nézlek a keresztfán
 Ahogy minden hibám 
 Eltűnik kegyelmed fényében
 
-Chorus
+[chorus]
 A romokból életet 
 Fakaszt dicsőséged 
 Kiemel a mélységből 
@@ -25,6 +26,7 @@ Betakarnak szárnyaid
 Uram, szeretlek Téged 
 Dicsérlek örökké 
 
+[verse2]
 2. Bármi történjen 
 Ígéretedben 
 Bízzon lelkem 

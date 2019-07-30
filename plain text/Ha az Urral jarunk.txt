@@ -1,3 +1,4 @@
+[verse1]
 1. Ha az Úrral járunk,
 El nem téved lábunk,
 Ragyog utunkon mennyei fény.
@@ -5,12 +6,13 @@ Vezet szent Igéje,
 Velünk van békéje,
 Szívünk betölti hit és remény.
 
-Chorus
+[chorus]
 Jézusban bízz,
 Üdvre más út nem visz!
 Szelíd hangjának engedj,
 S boldog lesz életed.
 
+[verse2]
 2. Sötét árny hogyha jő,
 Tornyosul vészfelhő,
 Jelenléte hadd ragyogja át!
@@ -18,6 +20,7 @@ Tűnik gond és bánat,
 Semmi baj nem árthat,
 Hogyha bízunk és tesszük szavát.
 
+[verse3]
 3. Bár itt terhünk nehéz,
 Érhet sok szenvedés,
 Vele hű munkánk jutalma nagy;
@@ -25,6 +28,7 @@ Sújthat gyász és bánat,
 Nekünk az nem árthat,
 Minden bajból új áldás fakad.
 
+[verse4]
 4. Áldott közösségben,
 Lelki csendességben
 Égi fény árad a szívünkbe,

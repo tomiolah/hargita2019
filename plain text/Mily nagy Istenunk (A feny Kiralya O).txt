@@ -1,3 +1,4 @@
+[verse1]
 1. A fény királya Ő,
 fenségbe öltözött,
 örüljön a Föld,
@@ -8,11 +9,12 @@ a sötétség menekül,
 s megremeg, ha szól,
 megremeg, ha szól.
 
-Chorus
+[chorus]
 Mily nagy Istenünk, énekeld,
 Mily nagy Istenünk! Lásd meg,
 Mily nagy, mily nagy Istenünk!
 
+[verse3]
 3. Örökkévaló,
 Időn uralkodó,
 A kezdet és a vég,
@@ -23,12 +25,12 @@ a Fiú, s Szentlélek,
 a győztes oroszlán,
 a megölt Bárány.
 
-Chorus
+[chorus]
 Mily nagy Istenünk, énekeld,
 Mily nagy Istenünk! Lásd meg,
 Mily nagy, mily nagy Istenünk!
 
-Bridge
+[bridge]
 Minden név felett való,
 Dicséretre méltó,
 Szívem énekel:

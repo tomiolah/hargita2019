@@ -1,4 +1,4 @@
-Chorus
+[chorus]
 Győztes leszel,
 Mert karja felemel,
 Szelleme vezérel.
@@ -6,19 +6,20 @@ Győztes leszel,
 Ha életeden át Istenedre nézel
 Mindig győztes leszel
 
+[verse1]
 1. Isten így szól mindenkihez,
 Ki fényt hord szívében és szeretetet:
 Nem kell többé rettegnetek,
 Ha a hegyektől nem látjátok az eget.
 
-Pre-Chorus
+[pre]
 Mert van, aki
 Lecsendesíti a tenger vizét,
 Van egy név,
 Mely győzelemre vezeti népét.
 Mindig...
 
-Chorus
+[chorus]
 Győztes leszel,
 Mert karja felemel,
 Szelleme vezérel.
@@ -26,19 +27,20 @@ Győztes leszel,
 Ha életeden át Istenedre nézel
 Mindig győztes leszel
 
+[verse2]
 2. Az úton elfáradunk,
 Szívünkben olykor fellázadunk
 De egyvalamit jól tudunk:
 Hogy a trónhoz a Kereszten át jutunk.
 
-Pre-Chorus
+[pre]
 Mert van, aki
 Lecsendesíti a tenger vizét,
 Van egy név,
 Mely győzelemre vezeti népét.
 Mindig...
 
-Chorus
+[chorus]
 Győztes leszel,
 Mert karja felemel,
 Szelleme vezérel.
@@ -52,7 +54,7 @@ Krisztussal oldalunkon
 Mindig győzni fogunk!
 Mindig...
 
-Chorus
+[chorus]
 Győztes leszel,
 Mert karja felemel,
 Szelleme vezérel.

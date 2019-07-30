@@ -1,3 +1,4 @@
+[verse1]
 1. Tiéd a végtelen,
 A kárpiton túli tér,
 Tiéd a Menny és a föld,
@@ -9,13 +10,14 @@ Jöjj, győzelmes Úr!
 És meglát minden szem,
 Ahogy büszkén visszatérsz
 
-Chorus
+[chorus]
 Adonáj, Adonáj!
 Minden térdet hajt örök trónodnál.
 Adonáj, Adonáj!
 Minden nyelv így szól:
 Te vagy Úr, s Király, Adonáj!
 
+[verse2]
 2. Rád vár Jeruzsálem, imánk tehozzád száll.
 Díszes kapukon át mikor vonulsz be már?
 És egész Sion zeng:
@@ -24,7 +26,7 @@ Baruch hábá b’sem!
 
 
 
-Bridge
+[bridge]
 /: Neked hódol a teljes föld :/
 
 
@@ -41,7 +43,7 @@ Te vagy Úr, s Király!
 
 
 
-Chorus
+[chorus]
 Adonáj, Adonáj!
 Minden térdet hajt örök trónodnál.
 Adonáj, Adonáj!

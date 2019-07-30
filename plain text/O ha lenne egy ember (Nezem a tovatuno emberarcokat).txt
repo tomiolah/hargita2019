@@ -1,3 +1,4 @@
+[verse1]
 1. Nézem a tovatűnő emberarcokat,
 Olyan egyformák, oly búsak, hétköznapiak.
 Nem tudják, hogy van valami a szürkeségen túl,
@@ -6,6 +7,7 @@ Ami lelkesít, ami célt ad, és új reményt nyújt.
 Ó, ha lenne egy ember, ki jó hírt vigyen,
 Bárcsak itt lenne most Jézus, hogy segítsen…
 
+[verse2]
 2. De sajnos, mi ugyanolyan fáradtak vagyunk,
 Napjaink mind egyformák, tartalmatlanok;
 Nem zavar a mások sorsa, nem érdekel:
@@ -14,7 +16,7 @@ Nyitva áll a templom, mért nem mennek el?
 Ó, ha lenne egy ember, ki jó hírt vigyen,
 Ki menne el Nékünk, kit küldjek el?
 
-Chorus
+[chorus]
 Kérünk, jöjj, Jézus Krisztus, szánd meg népedet,
 Szerelmed gyújtsa lángra a fásult szíveket!
 Elvesznek az emberek, s ez nem fáj nekünk,
@@ -25,6 +27,7 @@ Taníts meg, mint kell élnünk új életünk!
 Ó, tölts be lelkeddel, és küldj el még egyszer,
 Hisz túl sok időt vesztettünk már el.
 
+[verse3]
 3. Ott van a sok árva, aki szeretetre vár,
 Bár megismernék általunk a mennyei Atyát.
 Annyi üres kolduskéz nyúl aprópénz után,
@@ -33,22 +36,24 @@ Bár megtudnák, hogy a mi Urunk több, mint gazdagság.
 Ó, ha lenne egy ember, ki jó hírt vigyen,
 Ki menne el Nékünk, kit küldjek el?
 
-Chorus
+[chorus]
 Kérünk, jöjj, Jézus Krisztus, szánd meg népedet,
 Szerelmed gyújtsa lángra a fásult szíveket!
 Elvesznek az emberek, s ez nem fáj nekünk,
 Szólíts meg, és mutass rá, hogy hol segíthetünk!
+
 Kérünk, jöjj szent tüzeddel töltsd el szívünk,
 Taníts meg, mint kell élnünk új életünk!
 Ó, tölts be lelkeddel, és küldj el még egyszer,
 Hisz túl sok időt vesztettünk már el.
 
+[verse4]
 4. Talán jó lenne már otthagyni a kényelmes helyet,
 Körülnézni, s meglátni a nagy szükséget,
-Hisz Jézus most is él, ő munkálkodik!
-Mondjuk el hát másnak is: Csak ő segít!
+Hisz Jézus most is él, Ő munkálkodik!
+Mondjuk el hát másnak is: Csak Ő segít!
 
-Chorus
+[chorus]
 Kérünk, jöjj, Jézus Krisztus, szánd meg népedet,
 Szerelmed gyújtsa lángra a fásult szíveket!
 Elvesznek az emberek, s ez úgy fáj nekünk,

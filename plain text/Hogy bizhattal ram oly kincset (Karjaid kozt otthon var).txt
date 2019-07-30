@@ -1,3 +1,4 @@
+[verse1]
 1. Hogy bízhattál rám oly kincset,
 Mit angyalok sem kapnak meg?
 Féltőn hívtál, itt állok hát
@@ -5,13 +6,14 @@ Isten királyi trónjánál.
 És int felém két sebzett kéz –
 A Megváltó karjába zár.
 
-Chorus
+[chorus]
 Itt állok most trónodnál,
 Nincs több bűn, megváltottál!
 Jézus vérén át
 Bátran lépek Hozzád,
 Szent karjaid közt otthon vár.
 
+[verse2]
 2. Ha szívem vádlás döfné át,
 Ha Sátán bűnömmel kísért,
 Egy szó és gyászom szétrebben –
@@ -19,6 +21,7 @@ Az Úr van itt, az egyetlen.
 Ó áldom Őt, ki küzd és győz –
 Biztos bástya lelkem várán.
 
+[verse3]
 3. Isten Fiát, Jézust látom,
 Meghalt értem, hogy megváltson.
 Ártatlan, bűntelen szentség,
@@ -26,7 +29,7 @@ Szépség, mit szem nem látott még.
 Száz és száz szó, száz és száz dal
 Nem írhatja le fenségét.
 
-Bridge
+[bridge]
 Szálljon fel hála és imádat,
 Szívünkben elmos minden vádat.
 Ó áldjuk Őt, áldjuk azt,

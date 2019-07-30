@@ -1,9 +1,10 @@
-Chorus
+[chorus]
 Örülnek és örvendeznek majd mindazok
 Akik Téged keresnek szüntelen
 Örülnek és örvendeznek majd mindazok
 Kik magasztalják felséges Neved
 
+[verse1]
 1. Várván vártam az Urat
 És Ő hozzám hajolt
 Meghallgatta kiáltásomat
@@ -11,6 +12,7 @@ Várván vártam az Urat
 És Ő hozzám hajolt
 Meghallgatta kiáltásomat
 
+[verse2]
 2. Kivont a pusztulás gödréből,
 Hozzám hajolt,
 Most kősziklára bizton állhatok
@@ -18,7 +20,7 @@ Kivont a pusztulás gödréből,
 Hozzám hajolt,
 Most kősziklára bizton állhatok
 
-Bridge
+[bridge]
 Ajkamra új éneket adott,
 Az Ő dícséretét
 Hirdetném és elbeszélném tetteit,

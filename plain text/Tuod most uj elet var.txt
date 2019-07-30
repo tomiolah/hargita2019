@@ -1,3 +1,4 @@
+[verse1]
 1. Tudod, most új élet vár,
 Bármit is tettél, Ő megbocsát.
 Hallod, hogy szólít, csak téged hív,
@@ -10,7 +11,7 @@ Csak hinned kell, csak bíznod kell!
 Most az életed a fénybe vezet,
 Kezdd most el, indulj el!
 
-Chorus
+[chorus]
 Mától minden más, mert örökké élsz majd,
 Jézus vigyáz rád, megvéd és megtart,
 Ő ígérte azt, hogy soha el nem hagy,
@@ -23,6 +24,7 @@ Megvigasztal majd, ha elfáradnál.
 Ő nem hagy egyedül,
 Ő a legjobb barát.
 
+[verse2]
 2. Lesznek majd kérdéseid,
 Rád tör a kétely, a félelem.
 Ne hagyd, hogy győzzön a kétkedés,

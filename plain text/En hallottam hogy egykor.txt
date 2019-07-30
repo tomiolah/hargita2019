@@ -1,3 +1,4 @@
+[verse1]
 1. Én hallottam, hogy egykor
 Földre szállott a Megváltó,
 Föláldozta az életét
@@ -7,7 +8,7 @@ Vére értem folyt Golgotán,
 Eltörölte sok bűnömet
 E csodás szeretet.
 
-Chorus
+[chorus]
 A győzelem, már enyém,
 Megváltott szent vérén,
 Ő meghalt énértem,
@@ -17,6 +18,7 @@ Ez áldozat nagy volta,
 Már enyém a győzelem
 A Jézus vérében.
 
+[verse2]
 2. Én hallottam egy jó hírt,
 Jézus szenvedőt meggyógyít,
 Aki sánta volt, az újra jár,
@@ -26,6 +28,7 @@ A vakok szeme lát.
 Ő látta súlyos helyzetem,
 Meghallgatott engem!
 
+[verse3]
 3. Én hallottam, hogy nékem
 Helyet készített a mennyben,
 Égi városban, mely színarany,

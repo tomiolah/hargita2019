@@ -1,14 +1,16 @@
+[verse1]
 1. Milyen drága az a vér,
 Ami folyt sok bűnünkért
 Felszentel, és összeköt,
 Krisztus teste a földön létrejött
 
+[verse2]
 2. Milyen drága szövetség,
 Amit ismer föld és ég,
 Felszentel és összeköt,
 Krisztus teste a földön létrejött
 
-Pre-Chorus
+[pre]
 Ó-ó-ó
 Ó-ó-ó
 Míg nem látunk, hittel várunk
@@ -17,7 +19,7 @@ Míg nem látunk, hittel várunk
 Téged áldunk, így szolgálunk
 Néped képvisel, Királyunk!
 
-Chorus
+[chorus]
 És mi Érted élve
 Téged hirdetünk,
 Hogy megmentetted
@@ -26,6 +28,7 @@ Elveszett életünk
 Jézus győzött már
 És házad népe diadalban jár
 
+[verse2]
 2. Milyen drága szövetség,
 Amit ismer föld és ég,
 Felszentel és összetör,

@@ -1,3 +1,4 @@
+[verse1]
 1. Ha hívlak, meghallgatsz,
 Dal vagy, ha kél a Nap,
 Bár sötét még az éj,
@@ -10,7 +11,7 @@ Mert páncélom a hit,
 Míg harcom nem múlik
 Kitől félnék?
 
-Chorus
+[chorus]
 Tudom, ki jár előttem,
 Hogy mögöttem ki áll,
 Angyalhadaknak Ura,
@@ -21,6 +22,7 @@ Barátként jön hozzám,
 Isten, s az angyalsereg
 Mindig mellettem áll!
 
+[verse2]
 2. Nevedben erő él,
 Te vagy a menedék,
 Megmented életem,
@@ -28,7 +30,7 @@ Győzelmed éneklem!
 Kitől félnék?
 Mitől félnék?
 
-Bridge
+[bridge]
 Mert bárhogy támad az ellenség,
 Hatalmad mindentől megvéd!
 Ígéreted mélyen bennem él,

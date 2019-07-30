@@ -1,3 +1,4 @@
+[verse1]
 1. Titkok Istene vagy,
 Rejtély minden utad,
 Mégse félek, ha Te vezetsz.
@@ -5,12 +6,13 @@ Hogyha eltévedek,
 Kezed visszavezet,
 Mindig gondomat viseled.
 
-Pre-Chorus
+[pre]
 Segíts látnom azt az ösvényt,
 Ami Feléd tart.
 Segíts hallanom a hangod
 A viharban
 
+[chorus]
 Mert te hű vagy,
 Soha el nem hagysz,
 Rád bízhatom az életem.

@@ -1,3 +1,4 @@
+[verse1]
 1. Mily nagy az Isten szerelme,
 Nem mérhető mértékkel,
 Hisz' egyszülött Fiát küldte,
@@ -7,6 +8,7 @@ Hogy Atyja rá nem nézhetett.
 Fiának vére így hozott,
 Sokaknak üdvösséget.
 
+[verse2]
 2. Íme az Úr a kereszten,
 Ki bűnömet hordozza,
 És én ott lent a tömegben,
@@ -16,6 +18,7 @@ Míg elvégezte tervét,
 Halála életet adott,
 Levette lelkem terhét.
 
+[verse3]
 3. Nem kérkedem már semmivel,
 Nem is dicsekszem mással,
 Csak Jézusom keresztjével,

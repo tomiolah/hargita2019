@@ -1,22 +1,27 @@
+[verse1]
 Hűséges vagy, ó, Istenünk,
 A harcokban nem nekünk kell győznünk.
 Csendes vízhez terelgetsz és irgalmadhoz,
 Nem választ minket semmi el.
 
+[pre]
 Most itt áll a néped,
 Vár Rád, mint gyermek,
 Ki várja, hogy lássa, Atyját.
 
+[chorus1]
 A kegyelmed elég,
 A kegyelmed elég,
 A kegyelmed elég nekem.
 
+[verse2]
 Féltő és igaz Isten vagy,
 A gyengék által vezetsz másokat,
 A megváltásnak énekére bátorítasz,
 A néped együtt énekel.
 
-A kegyelmed elég, 
+[chorus2]
+A kegyelmed elég,
 A mennyből jössz közénk,
 A kegyelmed elég nekem.
 A szerelmed befed, 

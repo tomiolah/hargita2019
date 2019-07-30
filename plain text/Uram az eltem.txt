@@ -1,9 +1,10 @@
+[verse1]
 1. Uram, az éltem
 Kezedbe tettem.
 Nem félek többé,
 Áldlak örökké!
 
-Chorus
+[chorus]
 Kezedben hadd legyek
 Anyag csupán,
 Áraszd rám Lelkedet,
@@ -11,11 +12,13 @@ Pecséted nyomd rám!
 Uram, az éltem kezedbe tettem.
 Nem félek többé, áldlak örökké!
 
+[verse2]
 2. Nekem ködös még,
 De Te tudod rég,
 Mi van előttem,
 S mi lesz belőlem.
 
+[verse3]
 3. Kegyelmed várom,
 Uram, királyom,
 Igéd vezessen

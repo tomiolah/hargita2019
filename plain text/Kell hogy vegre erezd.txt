@@ -1,3 +1,4 @@
+[verse1]
 1. Kell, hogy végre érezd,
 Mennyire szeret az Isten
 Kegyelme éltet
@@ -5,7 +6,7 @@ Kegyelme éltet
 Ahogy a megbocsátás
 Átformál egy népet.
 
-Chorus
+[chorus]
 Győztes, hegyeket mozdít el
 Király és Szabadító
 Ítél és megsegít
@@ -13,6 +14,7 @@ Megváltó, üdvösség szerzője,
 Mert Ő legyőzte sírt
 Ő legyőzte a sírt!
 
+[verse2]
 2. Ha hibáztam, te védj meg
 Ölelj át, ha félek
 Töltsd be életem
@@ -20,7 +22,7 @@ Meghajlok előtted
 Szívemből követlek
 Csak érted élek.
 
-Bridge
+[bridge]
 Életünkkel mondjuk el, hogy élsz
 Hirdetjük Megváltónk dicsőségét
 Jézus, Életünkkel mondjuk el, hogy élsz

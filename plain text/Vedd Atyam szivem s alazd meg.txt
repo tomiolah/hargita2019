@@ -1,3 +1,4 @@
+[verse1]
 1. Vedd, Atyám, szívem, s alázd meg,
 Legyen az csak a Tied!
 Zúzzad össze, Ó, Szentlélek,
@@ -7,6 +8,7 @@ Véssed képmásod bele,
 Tartsd meg szívem alázatban,
 Szelíd lélek töltse be!
 
+[verse2]
 2. Drága Igéd lakjon bennem,
 Tegyen szentté teljesen!
 Buzdítson és erősítsen,
@@ -16,6 +18,7 @@ Szóljak, hogyha Lelked mondja,
 Legyek kész az áldozatra,
 Szolgáljalak szelíden!
 
+[verse3]
 3. Óvj, Atyám, a lelki kártól,
 Drága tetszésed szerint,
 Őrizd meg a bősz világtól,

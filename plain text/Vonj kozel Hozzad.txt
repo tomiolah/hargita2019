@@ -11,7 +11,7 @@ Hadd érezzem közelséged.
 Segíts mindinkább
 Vissza Tehozzád.
 
-Chorus
+[chorus]
 Te vagy nekem,
 Te vagy nekem minden
 Szükségem van,

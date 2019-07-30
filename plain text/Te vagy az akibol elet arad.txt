@@ -1,3 +1,4 @@
+[verse1]
 1. Te vagy az, akiből élet árad,
 Te vagy csak igaz szó a számban,
 Szívem kincse, lélegzetem, mindenem!
@@ -5,7 +6,7 @@ Te vagy az, akire mindig vártam,
 Hajnalcsillag vagy az éjszakában,
 Olyan egyedül lennék, Uram, nélküled!
 
-Chorus
+[chorus]
 De Te velem vagy, Jézus, minden nap,
 Te vagy a fény, ha éjjel van,
 Te vagy a tűz a szívemben, ami ég!
@@ -13,6 +14,7 @@ Jézus, Te vagy az életemben csak,
 Igaz barát, ki el nem hagy,
 Minden óra, minden nap a Tiéd!
 
+[verse2]
 2. Erős szikla vagy Te, amire állok,
 Te vagy az, aki a boldogságot,
 Elhoztad az égből az én szívembe!

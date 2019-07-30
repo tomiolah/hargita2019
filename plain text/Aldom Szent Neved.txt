@@ -1,3 +1,4 @@
+[verse1]
 1. Áldom szent neved,
 A mézzel folyó földeken,
 Hol nincs hiányom semmiben,
@@ -7,16 +8,17 @@ Ha az út a pusztába vezet,
 A száraz, kietlen helyen,
 Áldom nevedet!
 
-Pre-Chorus
+[pre]
 Minden áldást dicséretté formál szívem
 S ha körülzár a sötétség, azt mondom én:
 
-Chorus
+[chorus]
 Áldott legyen az Úr neve!
 Áldom nevedet!
 Áldott legyen az Úr neve!
 Áldott legyen hatalmas neve!
 
+[verse2]
 2. Áldom szent neved,
 Ha éppen minden rendben megy
 Ha napfényes az életem,
@@ -26,7 +28,7 @@ A szenvedések útján is,
 Bár könnyek között áldozom,
 Áldom nevedet!
 
-Bridge
+[bridge]
 Te adsz és elveszel,
 Te adsz és elveszel!
 A szívem így felel:

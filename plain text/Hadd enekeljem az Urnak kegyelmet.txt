@@ -1,4 +1,4 @@
-Chorus
+[chorus]
 /: Hadd énekeljem
 Az Úrnak kegyelmét
 Örökké,
@@ -6,6 +6,7 @@ Hadd mondjam el
 Azt, Hogy Ő a szívemben él. :/
 Örökké!
 
+[verse1]
 1. Az Úr szavára lett a Föld,
 A tenger, és az ég,
 Ezernyi csillag tündökölt,
@@ -14,7 +15,7 @@ Az Úr dicsősége előtt,
 Leborulva zengd dicséretét.
 A mindenség.
 
-Chorus
+[chorus]
 /: Hadd énekeljem
 Az Úrnak kegyelmét
 Örökké,
@@ -22,6 +23,7 @@ Hadd mondjam el
 Azt, Hogy Ő a szívemben él. :/
 Örökké!
 
+[verse2]
 2. A sötétből, bús homályból
 Mentett meg szavad,
 Életemben soha még

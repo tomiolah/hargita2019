@@ -1,3 +1,4 @@
+[verse1]
 Van egy ösvény,
 A neve szűk út,
 A mély völgy sivatagán
@@ -10,11 +11,13 @@ Kijelölték, hol a cél,
 Ahol Te vársz ránk az égből,
 Ahol az út véget ér.
 
+[chorus]
 Te az Első és Utolsó,
 Aki volt és aki él,
 Vezess fentről, Szabadító,
 Halld meg szívünk kérését.
 
+[verse2]
 Van egy zászló, lobog széltől,
 Viszi elszánt csapatát
 A világból hazatérő
@@ -26,17 +29,20 @@ Készül a nép,
 Szeretet hív még a mennyből,
 Ahol az út véget ér.
 
+[chorus]
 Te az Első és Utolsó,
 Aki volt és aki él,
 Vezess fentről, Szabadító,
 Halld meg szívünk kérését.
 
+[bridge]
 Szent vagy, szent vagy,
 És jó, fénylő és méltó
 Szent vagy, szent vagy, Mindenható.
 Halleluja, halleluja, halleluja,
 Halleluja, halleluja, halleluja.
 
+[verse3]
 Van egy ösvény,
 A neve szűk út,
 A mély völgy sivatagán

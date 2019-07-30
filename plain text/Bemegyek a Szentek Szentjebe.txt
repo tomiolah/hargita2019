@@ -1,8 +1,10 @@
+[verse1]
 Bemegyek a Szentek Szentjébe,
 Bemegyek a Bárány vérén át
 Bemegyek, csak Téged dicsérlek
 Bemegyek, hogy hódoljak Neked
 
+[chorus]
 Uram, dicsérlek, dicsérlek
 Neved áldom, szent vagy,
 Szent vagy, Uram.

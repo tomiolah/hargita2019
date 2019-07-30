@@ -1,3 +1,4 @@
+[verse1]
 1. Mindig értünk harcolsz Jézus,
 Körülötted angyalhad
 Olyan öröm tudni Rólad,
@@ -7,6 +8,7 @@ Te vagy megváltó barát
 Ma is éltet kegyelmed,
 Ezért áldlak!
 
+[verse2]
 2. Mikor nagyságod megérint,
 Térdre kényszerít szavad
 Minden félelmem eltűnik,
@@ -16,7 +18,7 @@ Csodás erőd szálljon ránk
 Ma is éltet kegyelmed,
 Ezért áldlak!
 
-Chorus
+[chorus]
 Hallelúja,
 Jézus győztes Úr,
 Jézus győztes Úr
@@ -24,6 +26,7 @@ Hallelúja,
 Jézus Krisztus lett
 A győztes Úr!
 
+[verse3]
 3. Te vagy örök közbenjárónk,
 Elveszettek pásztora
 Téged nem győzhet le senki,
@@ -33,18 +36,19 @@ Sehol nincs másban remény
 Ma is éltet kegyelmed,
 Ezért áldlak!
 
-Bridge
+[bridge]
 Ami magasan, büszkén áll,
 Teelőtted hulljon porba!
 Győzelmi koronád vár,
 Örök Király, örök Király!
 
+[verse4]
 4. Ott a kereszten meghaltál,
 Minden elvégeztetett,
 De a sír sem tartott fogva,
 Mert Te mindig győztes vagy!
 
-Chorus
+[chorus]
 Hallelúja,
 Jézus győztes Úr,
 Jézus győztes Úr

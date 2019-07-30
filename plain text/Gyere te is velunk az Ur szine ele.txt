@@ -1,8 +1,10 @@
+[verse1]
 Gyere te is velünk az Úr színe elé,
 Jöjj Hozzá, téged vár!
 Gyere te is, essünk lábai elé,
 Az ajtó nyitva áll.
 
+[chorus]
 Zengjünk hálát a hatalmas Istennek!
 Minden áldás egyedül Őt illeti meg.
 Jézus, leborulunk trónodnál,

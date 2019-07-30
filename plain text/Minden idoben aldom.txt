@@ -1,3 +1,4 @@
+[verse1]
 1. Minden időben áldom,
 Dicsérem az Urat,
 Magasztalom az Ő nevét.
@@ -5,7 +6,7 @@ Hallják ezt a szegények
 És együtt örülnek,
 Sietve asztalhoz ülnek.
 
-Chorus
+[chorus]
 Érezd és lásd,
 Hogy jó az Úr, kegyelme
 Az őt félőkön megmarad
@@ -15,12 +16,14 @@ Hogy jó az Úr, kiáltasz,
 S mert közel van Ő hozzád,
 Válaszol.
 
+[verse2]
 2. Megkerestem az Urat,
 S meghallgatott engem,
 Minden félelemből kimentett.
 Aki Ő reá néz, annak lelke felvidul,
 És arca szégyentől el nem pirul.
 
+[verse3]
 3. Az Úr angyala tábort jár
 Az őt félők körül,
 Megszabadítja Isten az ő népét.

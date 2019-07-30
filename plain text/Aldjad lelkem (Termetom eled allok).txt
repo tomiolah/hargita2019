@@ -1,3 +1,4 @@
+[verse1]
 1. Teremtőm, eléd állok,
 Szívem Neked kitárom, 
 Ismerd meg lelkem melyét, 
@@ -8,20 +9,20 @@ Hitem ma is megvallom,
 Bízom Benned, nem csüggedek, 
 Kitartok, míg Terád nézek.
 
-Pre-Chorus
+[pre]
 Várunk Rád! 
 Jöjj közénk tüzeddel! 
 Nincsen más,
 Ki méltó a dicséretre!
 
-Chorus
+[chorus]
 Áldjad, lelkem, a Menny és Föld Urát, 
 Áldjad, lelkem, Övé minden imádás! 
 Áldjad, lelkem, csak Ő méltó rá, 
 Feltámadt és minket vár 
 A fenséges Király!
 
-Bridge
+[bridge]
 Minden áldás, minden hála
 Csak Téged illet meg, 
 Arra vágyom, hogy imádatom
@@ -31,7 +32,7 @@ Te hűséges vagy,
 Szeretlek,
 És teljes szívemből éneklem
 
-Chorus
+[chorus]
 Áldjad, lelkem, a Menny és Föld Urát, 
 Áldjad, lelkem, Övé minden imádás! 
 Áldjad, lelkem, csak Ő méltó rá, 

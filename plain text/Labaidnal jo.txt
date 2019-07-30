@@ -1,3 +1,4 @@
+[verse1]
 1. Lábaidnál jó,
 Hát hadd maradjak még,
 Hisz Veled lenni,
@@ -7,7 +8,7 @@ Szeretve rám néztél,
 Hogy ellenállni
 Nincs erőm, tudom...
 
-Chorus
+[chorus]
 Tiéd a szívem, lelkem,
 Abba, Abba!
 Én úgy szeretlek, jó Atya!
@@ -15,6 +16,7 @@ Abba, Abba!
 Érted dobban,
 Nagyon szeretlek én Uram!
 
+[verse2]
 2. Én nem érdemlem meg
 És mégis megtetted:
 Megkaptam Tőled az Életet.
@@ -22,6 +24,7 @@ Megkaptam Tőled az Életet.
 De tűz van szívemben,
 Hogy egyre jobban megismerjelek.
 
+[verse3]
 3. Hű és jó Megváltó,
 A véred éltet rég,
 Ma szerelmem már mélyebb,

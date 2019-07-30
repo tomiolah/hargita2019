@@ -1,3 +1,4 @@
+[verse1]
 1. A napsugár az égbolt,
 A szivárványok és a szél,
 Az álmok és a vágyak,
@@ -10,7 +11,7 @@ Istenről beszél!
 
 
 
-Chorus
+[chorus]
 Amíg dal lesz ajkamon,
 Hirdetem, hogy él az Úr
 Tudom, hogy elfogad és szeret,
@@ -22,6 +23,7 @@ Istenről tanúskodom!
 
 
 
+[verse2]
 2. A hegyek és a völgyek,
 A folyó és a part,
 Minden felénk nyújtott kéz
@@ -33,7 +35,7 @@ Minden kérdésre a szívben
 Jézus megfelel!
 
 
-Chorus
+[chorus]
 Amíg dal lesz ajkamon,
 Hirdetem, hogy él az Úr
 Tudom, hogy elfogad és szeret,
@@ -44,7 +46,7 @@ Amíg dal lesz ajkamon,
 Istenről tanúskodom!
 
 
-
+[bridge1]
 (Fiúk)
 Én megvallom:
 Amíg dal lesz ajkamon,
@@ -58,7 +60,7 @@ Minden percem az Őve
 
 
 
-
+[bridge2]
 (Fiúk)
 Amíg dal lesz ajkamon,
 Én hirdetem, tisztelem
@@ -72,7 +74,7 @@ Egyedül csak Ő az Úr
 Istenről tanúskodom!
 
 
-
+[bridge3]
 (Fiúk)
 Minden percem az Őve
 Én hirdetem, tisztelem,
@@ -87,7 +89,7 @@ Istenről tanúskodom!
 
 
 
-
+[bridge4]
 (Fiúk)
 Amíg dal lesz ajkamon,
 Én hirdetem, tisztelem
@@ -100,6 +102,8 @@ Tudom, hogy elfogad és szeret,
 Egyedül csak Ő az Úr
 Istenről tanúskodom!
 
+
+[bridge5]
 (Fiúk)
 Minden percem az Őve
 Én hirdetem, tisztelem,
@@ -115,7 +119,7 @@ Amíg dal lesz ajkamon,
 
 
 
-Chorus
+[chorus]
 Amíg dal lesz ajkamon,
 Hirdetem, hogy él az Úr
 Tudom, hogy elfogad és szeret,
