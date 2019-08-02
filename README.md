@@ -6,7 +6,7 @@ Formatting tags used:
 
 - [verse#]
 - [chorus#]
-- [pre]
+- [pre#]
 - [bridge#]
 - [end]
 
