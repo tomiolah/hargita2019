@@ -10,7 +10,7 @@ Amit ismer föld és ég,
 Felszentel és összeköt,
 Krisztus teste a földön létrejött
 
-[pre]
+[pre1]
 Ó-ó-ó
 Ó-ó-ó
 Míg nem látunk, hittel várunk
@@ -19,7 +19,7 @@ Míg nem látunk, hittel várunk
 Téged áldunk, így szolgálunk
 Néped képvisel, Királyunk!
 
-[chorus]
+[chorus1]
 És mi Érted élve
 Téged hirdetünk,
 Hogy megmentetted

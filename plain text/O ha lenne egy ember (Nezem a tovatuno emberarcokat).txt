@@ -16,7 +16,7 @@ Nyitva áll a templom, mért nem mennek el?
 Ó, ha lenne egy ember, ki jó hírt vigyen,
 Ki menne el Nékünk, kit küldjek el?
 
-[chorus]
+[chorus1]
 Kérünk, jöjj, Jézus Krisztus, szánd meg népedet,
 Szerelmed gyújtsa lángra a fásult szíveket!
 Elvesznek az emberek, s ez nem fáj nekünk,
@@ -36,7 +36,7 @@ Bár megtudnák, hogy a mi Urunk több, mint gazdagság.
 Ó, ha lenne egy ember, ki jó hírt vigyen,
 Ki menne el Nékünk, kit küldjek el?
 
-[chorus]
+[chorus1]
 Kérünk, jöjj, Jézus Krisztus, szánd meg népedet,
 Szerelmed gyújtsa lángra a fásult szíveket!
 Elvesznek az emberek, s ez nem fáj nekünk,
@@ -53,7 +53,7 @@ Körülnézni, s meglátni a nagy szükséget,
 Hisz Jézus most is él, Ő munkálkodik!
 Mondjuk el hát másnak is: Csak Ő segít!
 
-[chorus]
+[chorus1]
 Kérünk, jöjj, Jézus Krisztus, szánd meg népedet,
 Szerelmed gyújtsa lángra a fásult szíveket!
 Elvesznek az emberek, s ez úgy fáj nekünk,

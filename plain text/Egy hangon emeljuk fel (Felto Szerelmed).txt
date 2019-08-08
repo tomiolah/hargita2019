@@ -7,7 +7,7 @@ Fájdalmunk elmúlt
 Gyógyulást hoztál
 Szívünkbe
 
-[chorus]
+[chorus1]
 Egy hangon emeljük fel
 Egy hangon dicsérjük Őt
 Egy hangon emeljük fel
@@ -22,7 +22,7 @@ A halál legyőzve
 Győzelmet adtál,
 Mert feltámadtál
 
-[chorus]
+[chorus1]
 Egy hangon emeljük fel
 Egy hangon dicsérjük Őt
 Egy hangon emeljük fel

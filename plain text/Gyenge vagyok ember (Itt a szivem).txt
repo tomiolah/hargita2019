@@ -8,7 +8,7 @@ Túl sok ami fájhat
 Nélküled a lelkem
 Porszem szélvészben...
 
-[chorus]
+[chorus1]
 Itt a szívem:
 Kemény föld
 Pusztaság lett
@@ -26,7 +26,7 @@ Túl keveset szívből
 Míg a betű öl,
 A szellem élni hív
 
-[chorus]
+[chorus1]
 Itt a szívem:
 Kemény föld
 Pusztaság lett
@@ -38,7 +38,7 @@ Törjön út
 Élő víznek,
 Mely Tőled jön!
 
-[bridge]
+[bridge1]
 (Lányok)
 Megtanítasz szeretni
 Merni, élni, érezni ×3
@@ -46,7 +46,7 @@ Merni, élni, érezni ×3
 (Fiúk)
 Megbocsátasz, hogy én is megbocsássak...
 
-[chorus]
+[chorus1]
 Itt a szívem:
 Kemény föld
 Pusztaság lett

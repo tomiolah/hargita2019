@@ -5,7 +5,7 @@ Felhangzik királyi szózata
 Összegyüjti az õ népét
 Messze földrõl vezeti haza
 
-[chorus]
+[chorus1]
 Az Úrnak népe Izráel
 Az Úrnak népe Izráel
 Nem felejti övéit
@@ -20,7 +20,7 @@ A sánták táncot járva
 Dicsõítik Õt
 A néma ajkak újra dalolnak.
 
-[chorus]
+[chorus1]
 Az Úrnak népe Izráel
 Az Úrnak népe Izráel
 Nem felejti övéit
@@ -35,7 +35,7 @@ Virágzik a puszta,
 Visszhangozzág a hegyek
 A megváltottak hálaénekét
 
-[chorus]
+[chorus1]
 Az Úrnak népe Izráel
 Az Úrnak népe Izráel
 Nem felejti övéit

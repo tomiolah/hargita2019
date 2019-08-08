@@ -11,7 +11,7 @@ Csak hinned kell, csak bíznod kell!
 Most az életed a fénybe vezet,
 Kezdd most el, indulj el!
 
-[chorus]
+[chorus1]
 Mától minden más, mert örökké élsz majd,
 Jézus vigyáz rád, megvéd és megtart,
 Ő ígérte azt, hogy soha el nem hagy,

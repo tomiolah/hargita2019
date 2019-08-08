@@ -9,7 +9,7 @@ a sötétség menekül,
 s megremeg, ha szól,
 megremeg, ha szól.
 
-[chorus]
+[chorus1]
 Mily nagy Istenünk, énekeld,
 Mily nagy Istenünk! Lásd meg,
 Mily nagy, mily nagy Istenünk!
@@ -25,12 +25,12 @@ a Fiú, s Szentlélek,
 a győztes oroszlán,
 a megölt Bárány.
 
-[chorus]
+[chorus1]
 Mily nagy Istenünk, énekeld,
 Mily nagy Istenünk! Lásd meg,
 Mily nagy, mily nagy Istenünk!
 
-[bridge]
+[bridge1]
 Minden név felett való,
 Dicséretre méltó,
 Szívem énekel:

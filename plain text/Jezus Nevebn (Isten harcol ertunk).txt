@@ -26,7 +26,7 @@ Krisztus a Király!
 Szavad által meggyógyultam,
 Jézus nevében!
 
-[bridge]
+[bridge1]
 Isten harcol értünk,
 Elfut ellenségünk
 Megrendíthetetlen

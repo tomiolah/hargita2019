@@ -7,7 +7,7 @@ Az örök élet könyvébe beír,
 Énekeljük, Jézus Krisztus él,
 Ő él!
 
-[chorus]
+[chorus1]
 Eljött a nap, az a nap,
 Mikor bűnöm elmostad.
 Eljött a nap, ez a a nap,
@@ -23,7 +23,7 @@ Földi kín nem árthat már nekem,
 Ünnepeljük, Jézus Krisztus él,
 Ő él!
 
-[bridge]
+[bridge1]
 Ó, milyen gyönyörű nap,
 Igazi örömet ad,
 Hogy megmentettél!

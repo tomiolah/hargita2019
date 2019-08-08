@@ -1,4 +1,4 @@
-[verse]
+[verse1]
 Szakadék tátongott
 Közted és köztem,
 Áthidalhatatlanul mély
@@ -13,7 +13,7 @@ Keresztje lett az a híd,
 Amely ki van feszítve
 Ég és Föld közé
 
-[chorus]
+[chorus1]
 Ő az az út,
 Mely bizton célhoz ér,
 Nincs már köztünk szakdék
@@ -30,7 +30,7 @@ A túlsó part felé
 Lépj csak rá, ne félj,
 Biztos, hogy megtart, csak ne félj!
 
-[verse]
+[verse1]
 Szakadék tátongott
 Közted és köztem,
 Áthidalhatatlanul mély
@@ -45,7 +45,7 @@ Keresztje lett az a híd,
 Amely ki van feszítve
 Ég és Föld közé
 
-[chorus]
+[chorus1]
 Ő az az út,
 Mely bizton célhoz ér,
 Nincs már köztünk szakdék

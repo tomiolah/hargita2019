@@ -4,7 +4,7 @@ Bennem minden helyreáll
 Ha jön Szellemed, bátorrá leszek,
 S a félelmem elszáll
 
-[chorus]
+[chorus1]
 Nem tart fogva semmi már,
 Fiad vagyok, Atyám
 Nem tart fogva semmi már,
@@ -16,13 +16,13 @@ Elhívtál engem
 Újjászülettem, családtag lettem,
 Véred folyik bennem
 
-[chorus]
+[chorus1]
 Nem tart fogva semmi már,
 Fiad vagyok, Atyám
 Nem tart fogva semmi már,
 Fiad vagyok, Atyám
 
-[bridge]
+[bridge1]
 Olyan jó, hogy érzem;
 Átölel Atyám karja
 Olyan jó, hogy átjár
@@ -40,7 +40,7 @@ Lelkemben széttört minden lánc
 Megmentettél, fennhangon zengem hát:
 Fiad vagyok Atyám!
 
-[chorus]
+[chorus1]
 Nem tart fogva semmi már,
 Fiad vagyok, Atyám
 Nem tart fogva semmi már,

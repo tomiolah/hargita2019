@@ -10,11 +10,11 @@ Soha el ne hagyj,
 A szívem legyen lakhelyed,
 Hadd érezzem közelséged.
 
-[pre]
+[pre1]
 Segíts mindinkább
 Vissza Tehozzád.
 
-[chorus]
+[chorus1]
 Te vagy nekem,
 Te vagy nekem minden
 Szükségem van,

@@ -1,4 +1,4 @@
-[chorus]
+[chorus1]
 Örülnek és örvendeznek majd mindazok
 Akik Téged keresnek szüntelen
 Örülnek és örvendeznek majd mindazok
@@ -20,7 +20,7 @@ Kivont a pusztulás gödréből,
 Hozzám hajolt,
 Most kősziklára bizton állhatok
 
-[bridge]
+[bridge1]
 Ajkamra új éneket adott,
 Az Ő dícséretét
 Hirdetném és elbeszélném tetteit,

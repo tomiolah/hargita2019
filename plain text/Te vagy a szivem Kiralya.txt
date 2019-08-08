@@ -4,13 +4,13 @@ Minden helyzetben sorsom kezedben, Istenem.
 Ha fájdalmak, könnyek, harcok jönnek, tiéd vagyok,
 Ha sötét van, fényed annál erősebben ragyog.
 
-[pre]
+[pre1]
 Segíts, hogy rád nézzek, s nem arra, mit érzek,
 Vagy éppen milyen kedvem van,
 Segíts hitben járnom, Istenem, barátom,
 Segíts rád bíznom magam.
 
-[chorus]
+[chorus1]
 Méltó vagy rá, hogy érted éljek,
 És életemmel rólad beszéljek.
 Méltó vagy rá, hogy bízzak benned,
@@ -24,7 +24,7 @@ Minden helyzetben sorsom kezedben, Istenem.
 A vihar hevében Te őrzöd meg az életem,
 Szeretlek téged, Te vagy erőm és énekem.
 
-[bridge]
+[bridge1]
 Hűséges vagy, őrző kezed nem enged el.
 Hűséges vagy, vezetsz engem és védelmezel.
 Hűséges vagy, megvigasztalsz és fegyelmezel.

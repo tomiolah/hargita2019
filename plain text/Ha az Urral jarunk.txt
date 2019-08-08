@@ -6,7 +6,7 @@ Vezet szent Igéje,
 Velünk van békéje,
 Szívünk betölti hit és remény.
 
-[chorus]
+[chorus1]
 Jézusban bízz,
 Üdvre más út nem visz!
 Szelíd hangjának engedj,

@@ -6,13 +6,13 @@ Hogyha eltévedek,
 Kezed visszavezet,
 Mindig gondomat viseled.
 
-[pre]
+[pre1]
 Segíts látnom azt az ösvényt,
 Ami Feléd tart.
 Segíts hallanom a hangod
 A viharban
 
-[chorus]
+[chorus1]
 Mert te hű vagy,
 Soha el nem hagysz,
 Rád bízhatom az életem.

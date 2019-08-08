@@ -10,7 +10,7 @@ Jöjj, győzelmes Úr!
 És meglát minden szem,
 Ahogy büszkén visszatérsz
 
-[chorus]
+[chorus1]
 Adonáj, Adonáj!
 Minden térdet hajt örök trónodnál.
 Adonáj, Adonáj!
@@ -38,7 +38,7 @@ Adonáj, Adonáj!
 Minden nyelv így szól:
 Te vagy Úr, s Király!
 
-[chorus]
+[chorus1]
 Adonáj, Adonáj!
 Minden térdet hajt örök trónodnál.
 Adonáj, Adonáj!

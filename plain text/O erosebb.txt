@@ -10,7 +10,7 @@ Velünk jár Ő szüntelen.
 Van kiút, van szabadság, 
 Jézus győzött, megtalált! 
 
-[chorus]
+[chorus1]
 Ő erősebb, mint a sírbolt,
 Mindig így lesz,
 Mindig így volt,
@@ -23,14 +23,14 @@ Ez az ár volt a kereszt.
 Ő remény és védelem.
 Életünk már végtelen. 
 
-[chorus]
+[chorus1]
 Ő erősebb, mint a sírbolt,
 Mindig így lesz,
 Mindig így volt,
 Ő mentett meg, Ő tett újjá,
 Győztes Jézus, Úr Király!
 
-[bridge]
+[bridge1]
 Hát itt vagyunk 
 hogy Téged áldjunk, 
 Csak Téged lássunk 

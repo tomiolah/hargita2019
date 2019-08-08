@@ -8,7 +8,7 @@ Mikor szelíden hívtál,
 A szívemre beszéltél
 És megváltoztattál.
 
-[chorus]
+[chorus1]
 Jézus, Te vagy minden álmom,
 Éjszakám és nappalom,
 Te vagy igaz szó a számben,

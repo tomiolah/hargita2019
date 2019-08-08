@@ -14,7 +14,7 @@ Mikor a gondjaid elfutnak
 Miért aggódsz én lelkem?
 Miért aggódsz  énbennem?
 
-[chorus]
+[chorus1]
 Bízzál én lelkem!
 Bízzál Istenben!
 Bízzál én lelkem!
@@ -28,7 +28,7 @@ Mikor az igazak mind szabadulnak
 Miért háborogsz lelkem?
 Miért háborogsz bennem?
 
-[bridge]
+[bridge1]
 Hiszen hálát adsz még az Úrnak,
 Mikor a nehéz idők elmúlnak
 Hiszen hálát adsz még az Úrnak, 

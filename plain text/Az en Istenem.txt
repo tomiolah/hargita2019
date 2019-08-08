@@ -1,4 +1,4 @@
-[chorus]
+[chorus1]
 Az én Istenem erős, hatalmas Isten
 Nincs olyan, mit Ő nem tehet.
 
@@ -13,7 +13,7 @@ Ezek a csodák mind Őt hirdetik,
 De ha nem hinnéd,
 Elmondom neked megint:
 
-[chorus]
+[chorus1]
 Az én Istenem erős, hatalmas Isten
 Nincs olyan, mit Ő nem tehet.
 
@@ -29,14 +29,14 @@ De ha nem hinnéd,
 Elmondom neked megint:
 (Ez az egy, amiről most tudnod kell!)
 
-[chorus]
+[chorus1]
 Az én Istenem erős, hatalmas Isten
 Nincs olyan, mit Ő nem tehet.
 
-[bridge]
+[bridge1]
 Ő az Atya, Ő a Fiú, Szent Szellem,
 egy meg egy meg egy az Egy.
 
-[chorus]
+[chorus1]
 Az én Istenem erős, hatalmas Isten
 Nincs olyan, mit Ő nem tehet.

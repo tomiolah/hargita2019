@@ -1,4 +1,4 @@
-[chorus]
+[chorus1]
 Győztes leszel,
 Mert karja felemel,
 Szelleme vezérel.
@@ -12,14 +12,14 @@ Ki fényt hord szívében és szeretetet:
 Nem kell többé rettegnetek,
 Ha a hegyektől nem látjátok az eget.
 
-[pre]
+[pre1]
 Mert van, aki
 Lecsendesíti a tenger vizét,
 Van egy név,
 Mely győzelemre vezeti népét.
 Mindig...
 
-[chorus]
+[chorus1]
 Győztes leszel,
 Mert karja felemel,
 Szelleme vezérel.
@@ -33,14 +33,14 @@ Szívünkben olykor fellázadunk
 De egyvalamit jól tudunk:
 Hogy a trónhoz a Kereszten át jutunk.
 
-[pre]
+[pre1]
 Mert van, aki
 Lecsendesíti a tenger vizét,
 Van egy név,
 Mely győzelemre vezeti népét.
 Mindig...
 
-[chorus]
+[chorus1]
 Győztes leszel,
 Mert karja felemel,
 Szelleme vezérel.
@@ -54,7 +54,7 @@ Krisztussal oldalunkon
 Mindig győzni fogunk!
 Mindig...
 
-[chorus]
+[chorus1]
 Győztes leszel,
 Mert karja felemel,
 Szelleme vezérel.

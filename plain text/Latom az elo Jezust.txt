@@ -6,7 +6,7 @@ Látom örök kegyelmét,
 Elfedezni vétkeink
 Megváltottak éneklik:
 
-[chorus]
+[chorus1]
 Hozsánna, Hozsánna,
 Hozsánna fent a mennyben!
 Hozsánna, Hozsánna,
@@ -21,7 +21,7 @@ Imában térden állva,
 Kérjük Őt, hogy jöjjön el
 Az ébredés, ébredés
 
-[bridge]
+[bridge1]
 Termts bennem új szivet,
 (Hadd) Lássam amit Te,
 Nyisd meg szemeimet!

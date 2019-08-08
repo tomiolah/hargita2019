@@ -6,14 +6,14 @@ Fekete az ég, zúg a vihar,
 De Te küldesz tovább,
 Én vissza soha nem fordulnék.
 
-[pre]
+[pre1]
 Nem rémít az ellenség,
 mert Istenem karja véd,
 És ha Isten karja véd,
 Kitől rettegnék?
 Mitől féljek még?
 
-[chorus]
+[chorus1]
 Ó nem, Te nem adod fel,
 Forgószélben békében,
 Ó nem, Te nem adod fel,
@@ -30,7 +30,7 @@ Veled élhet majd fent,
 A kudarc, de amíg élnünk kell,
 a célunk az, hogy készüljünk fel!
 
-[pre]
+[pre1]
 Az aki majd győz, aki kitart,
 Veled élhet majd fent,
 (Ott) Véget ér a harc, a gyász,

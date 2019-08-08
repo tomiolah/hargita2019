@@ -4,7 +4,7 @@ Hol nélküled elsüllyedek
 Ebben megtalállak téged,
 A mélységben megtart hitem.
 
-[chorus]
+[chorus1]
 És nagy neved hívom én,
 És felnézek a vizek fölé
 Ott látlak én;
@@ -17,14 +17,14 @@ Mely elvezet és tart engem.
 Ha elbuknék és nagyon félnék,
 Te nem hagysz el és nem inogsz meg.
 
-[chorus]
+[chorus1]
 És nagy neved hívom én,
 És felnézek a vizek fölé
 Ott látlak én;
 A lelkem Benned megpihen.
 Enyém vagy és én tied.
 
-[bridge]
+[bridge1]
 Lélek add, hogy benned
 Teljesen megbízzak
 A vízen bátran veled járjak,

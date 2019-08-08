@@ -9,7 +9,7 @@ Minden hang és minden kép,
 Minden virág minden szirma,
 Istenről beszél!
 
-[chorus]
+[chorus1]
 Amíg dal lesz ajkamon,
 Hirdetem, hogy él az Úr
 Tudom, hogy elfogad és szeret,
@@ -30,7 +30,7 @@ Titkon hozzá visz közel
 Minden kérdésre a szívben
 Jézus megfelel!
 
-[chorus]
+[chorus1]
 Amíg dal lesz ajkamon,
 Hirdetem, hogy él az Úr
 Tudom, hogy elfogad és szeret,
@@ -40,7 +40,7 @@ Hálám nem szűnik soha,
 Amíg dal lesz ajkamon,
 Istenről tanúskodom!
 
-[bridge]
+[bridge1]
 (Fiúk)
 Én megvallom:
 Amíg dal lesz ajkamon,
@@ -91,7 +91,7 @@ Amíg dal lesz ajkamon,
 (Együtt)
 Én dícsérem Őt!
 
-[chorus]
+[chorus1]
 Amíg dal lesz ajkamon,
 Hirdetem, hogy él az Úr
 Tudom, hogy elfogad és szeret,

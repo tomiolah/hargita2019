@@ -4,7 +4,7 @@ Glória nélkül érkeztél,
 Te szolgáltál minekünk,
 Halálod által élhetünk.
 
-[chorus]
+[chorus1]
 Íme az Úr: Szolga Király!
 Most minket hív, kövessük hát!
 Hozzuk elé szívunk hódolatát, 
@@ -16,7 +16,7 @@ Miattam hordott bûnterhet.
 Megtört szívvel mondta ott:
 "Legyen Atyám akaratod!" 
 
-[chorus]
+[chorus1]
 Íme az Úr: Szolga Király!
 Most minket hív, kövessük hát!
 Hozzuk elé szívunk hódolatát,
@@ -28,7 +28,7 @@ Jöjj hát, és nézd sebeit,
 Eget tartó nagy kezét,
 Kínzó szegeknek tárta szét. 
 
-[chorus]
+[chorus1]
 Íme az Úr: Szolga Király!
 Most minket hív, kövessük hát!
 Hozzuk elé szívunk hódolatát,
@@ -40,7 +40,7 @@ Szívünknek trónján Õ lakik,
 Ha fölvesszük más baját,
 Akkor szolgáljuk Õt, magát.
 
-[chorus]
+[chorus1]
 Íme az Úr: Szolga Király!
 Most minket hív, kövessük hát!
 Hozzuk elé szívunk hódolatát,

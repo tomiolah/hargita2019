@@ -8,11 +8,11 @@ Ha az út a pusztába vezet,
 A száraz, kietlen helyen,
 Áldom nevedet!
 
-[pre]
+[pre1]
 Minden áldást dicséretté formál szívem
 S ha körülzár a sötétség, azt mondom én:
 
-[chorus]
+[chorus1]
 Áldott legyen az Úr neve!
 Áldom nevedet!
 Áldott legyen az Úr neve!
@@ -28,7 +28,7 @@ A szenvedések útján is,
 Bár könnyek között áldozom,
 Áldom nevedet!
 
-[bridge]
+[bridge1]
 Te adsz és elveszel,
 Te adsz és elveszel!
 A szívem így felel:

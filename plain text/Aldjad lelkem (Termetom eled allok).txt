@@ -9,20 +9,20 @@ Hitem ma is megvallom,
 Bízom Benned, nem csüggedek, 
 Kitartok, míg Terád nézek.
 
-[pre]
+[pre1]
 Várunk Rád! 
 Jöjj közénk tüzeddel! 
 Nincsen más,
 Ki méltó a dicséretre!
 
-[chorus]
+[chorus1]
 Áldjad, lelkem, a Menny és Föld Urát, 
 Áldjad, lelkem, Övé minden imádás! 
 Áldjad, lelkem, csak Ő méltó rá, 
 Feltámadt és minket vár 
 A fenséges Király!
 
-[bridge]
+[bridge1]
 Minden áldás, minden hála
 Csak Téged illet meg, 
 Arra vágyom, hogy imádatom
@@ -32,7 +32,7 @@ Te hűséges vagy,
 Szeretlek,
 És teljes szívemből éneklem
 
-[chorus]
+[chorus1]
 Áldjad, lelkem, a Menny és Föld Urát, 
 Áldjad, lelkem, Övé minden imádás! 
 Áldjad, lelkem, csak Ő méltó rá, 

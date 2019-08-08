@@ -11,7 +11,7 @@ Gyógyító a sebzettnek,
 Megvédesz gyengén, sérülten
 Hűséges Isten.
 
-[chorus]
+[chorus1]
 Éneklek, a teremtő,
 Megtartó Istennek
 Uralmad, szerelmed
@@ -27,7 +27,7 @@ Felemelsz és
 Megtartod néped,
 Hűséges Isten.
 
-[chorus]
+[chorus1]
 Éneklek, a teremtő,
 Megtartó Istennek
 Uralmad, szerelmed
@@ -36,7 +36,7 @@ Megvéd engem
 A Te hatalmas Neved,
 Hűséges Isten.
 
-[bridge]
+[bridge1]
 Velem vagy,
 (velem vagy)
 Lelkem minden vágyában

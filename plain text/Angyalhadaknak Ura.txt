@@ -11,7 +11,7 @@ Mert páncélom a hit,
 Míg harcom nem múlik
 Kitől félnék?
 
-[chorus]
+[chorus1]
 Tudom, ki jár előttem,
 Hogy mögöttem ki áll,
 Angyalhadaknak Ura,
@@ -30,7 +30,7 @@ Győzelmed éneklem!
 Kitől félnék?
 Mitől félnék?
 
-[bridge]
+[bridge1]
 Mert bárhogy támad az ellenség,
 Hatalmad mindentől megvéd!
 Ígéreted mélyen bennem él,

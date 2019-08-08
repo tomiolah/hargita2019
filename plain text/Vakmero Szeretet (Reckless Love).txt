@@ -6,7 +6,7 @@ Hangot sem adtam még,
 Felettem daloltál,
 Hozzám annyira jó voltál.
 
-[chorus]
+[chorus1]
 Ó, az el nem múló,
 Túláradó,
 Vakmerő Szeretet!
@@ -28,7 +28,7 @@ Megromlott lelkemért
 Mindent feláldoztál,
 Hozzám annyira jó voltál!
 
-[bridge]
+[bridge1]
 Hegységeken átkelsz,
 Sötétségen áttörsz,
 Míg utánam eredsz.

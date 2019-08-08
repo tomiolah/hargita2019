@@ -10,7 +10,7 @@ Szabaddá tettél!
 Most már nem engedlek el,
 A lelkem ragaszkodik hozzád!
 
-[chorus]
+[chorus1]
 Szeretek énekelni Rólad,
 Magasztalni Neved
 Oly jó vagy hozzám,
@@ -33,7 +33,7 @@ Benned élhetek én!
 Uram, nem engedlek el,
 A lelkem ragaszkodik hozzád!
 
-[chorus]
+[chorus1]
 Szeretek énekelni Rólad,
 Magasztalni Neved
 Oly jó vagy hozzám,

@@ -11,7 +11,7 @@ Kijelölték, hol a cél,
 Ahol Te vársz ránk az égből,
 Ahol az út véget ér.
 
-[chorus]
+[chorus1]
 Te az Első és Utolsó,
 Aki volt és aki él,
 Vezess fentről, Szabadító,
@@ -29,13 +29,13 @@ Készül a nép,
 Szeretet hív még a mennyből,
 Ahol az út véget ér.
 
-[chorus]
+[chorus1]
 Te az Első és Utolsó,
 Aki volt és aki él,
 Vezess fentről, Szabadító,
 Halld meg szívünk kérését.
 
-[bridge]
+[bridge1]
 Szent vagy, szent vagy,
 És jó, fénylő és méltó
 Szent vagy, szent vagy, Mindenható.

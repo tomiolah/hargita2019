@@ -4,7 +4,7 @@ Bemegyek a Bárány vérén át
 Bemegyek, csak Téged dicsérlek
 Bemegyek, hogy hódoljak Neked
 
-[chorus]
+[chorus1]
 Uram, dicsérlek, dicsérlek
 Neved áldom, szent vagy,
 Szent vagy, Uram.

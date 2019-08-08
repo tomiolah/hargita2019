@@ -6,7 +6,7 @@ A test elmúlhat
 A Te irgalmad 
 Őrzi lelkem 
 
-[bridge]
+[bridge1]
 Ha tűzön viszel át 
 Szívem csak Téged áld 
 Lelkem részévé válik tervednek 
@@ -14,7 +14,7 @@ Nézlek a keresztfán
 Ahogy minden hibám 
 Eltűnik kegyelmed fényében
 
-[chorus]
+[chorus1]
 A romokból életet 
 Fakaszt dicsőséged 
 Kiemel a mélységből 

@@ -6,7 +6,7 @@ Aki betölti lelkemet,
 Túl mindenen én éneklem
 Nincs visszaút, szabad lettem!
 
-[chorus]
+[chorus1]
 Krisztus elég nekem,
 Krisztus elég nekem!
 Minden vágyam
@@ -22,14 +22,14 @@ Túl mindenen én éneklem,
 Jézus itt van,
 Csak Ő legyen áldott!
 
-[chorus]
+[chorus1]
 Krisztus elég nekem,
 Krisztus elég nekem!
 Minden vágyam
 Csak Te vagy, Jézus!
 Mindenem Tiéd.
 
-[bridge]
+[bridge1]
 Szivemben eldőlt:
 Követem Jézust,
 Nincs visszaút,

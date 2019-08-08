@@ -18,7 +18,7 @@ A felszínt éri csak,
 Törd meg szívem,
 Szánts bennem új ugart!
 
-[chorus]
+[chorus1]
 Szántsd fel, Uram,
 Megkövült szívemet!
 Égessen a bűn,
@@ -38,7 +38,7 @@ A felszínt éri csak
 Törd meg szívem,
 Szánts bennem új ugart!
 
-[chorus]
+[chorus1]
 Szántsd fel, Uram,
 Megkövült szívemet!
 Égessen a bűn,
@@ -58,7 +58,7 @@ Repítsen utadon,
 Kövessem lépted,
 Szolgáljak szabadon!
 
-[chorus]
+[chorus1]
 Szántsd fel, Uram,
 Megkövült szívemet!
 Égessen a bűn,

@@ -18,7 +18,7 @@ Saját fiának hív engem
 Csodás Megváltóm, mit is mondhatnék,
 Benned van reménységem.
 
-[chorus]
+[chorus1]
 Halleluja, dicsérem az Egyetlent
 Halleluja, mindenért, mit értem tett
 Semmi nem tart fogva már,

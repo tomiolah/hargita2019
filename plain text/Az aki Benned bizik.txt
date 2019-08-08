@@ -8,7 +8,7 @@ Aki életet adtál halálod árán.
 Jézus, Te vagy a hűséges társ, 
 Aki éjjel-nappal mindig vársz rám.
 
-[chorus]
+[chorus1]
 Hozzád jövök, Uram, 
 Hozzád emelem tekintetem,
 Mert nincsen más, kiben bízhatnék. 
@@ -19,7 +19,7 @@ Hozzád emelem fel kezeimet.
 Mert Szent vagy, Mindenható.
 Csak Te vagy a Megváltó!
 
-[bridge]
+[bridge1]
 Hát engedd hangod hallanom, 
 és engedd arcod látnom.
 Ahogy Téged csodállak,

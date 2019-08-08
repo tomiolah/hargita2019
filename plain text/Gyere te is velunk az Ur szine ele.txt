@@ -4,7 +4,7 @@ Jöjj Hozzá, téged vár!
 Gyere te is, essünk lábai elé,
 Az ajtó nyitva áll.
 
-[chorus]
+[chorus1]
 Zengjünk hálát a hatalmas Istennek!
 Minden áldás egyedül Őt illeti meg.
 Jézus, leborulunk trónodnál,

@@ -11,7 +11,7 @@ Körülveszel,
 Minden időben,
 Mindig szerettél.
 
-[chorus]
+[chorus1]
 Meghajlok Keresztednél,
 Itt folyt ki a drága vér,
 Nincs mi ennél többet ér!
@@ -25,7 +25,7 @@ Oltalmazó,
 Kezedben őrzöl,
 Szeretsz, tudom jól!
 
-[chorus]
+[chorus1]
 Meghajlok Keresztednél,
 Itt folyt ki a drága vér,
 Nincs mi ennél többet ér!
@@ -40,7 +40,7 @@ Ott állsz előttem,
 Mert úgy szerettél,
 Mindig szerettél!
 
-[chorus]
+[chorus1]
 Meghajlok Keresztednél,
 Itt folyt ki a drága vér,
 Nincs mi ennél többet ér!
@@ -48,7 +48,7 @@ Nincs mi ennél többet ér!
 Megnyitottad a Szentélyt,
 Semmi el nem választ már!
 
-[bridge]
+[bridge1]
 Megnyílt a Menny,
 Elvégeztetett!
 A kárpit szétrepedt!

@@ -6,7 +6,7 @@ Te vagy az, akire mindig vártam,
 Hajnalcsillag vagy az éjszakában,
 Olyan egyedül lennék, Uram, nélküled!
 
-[chorus]
+[chorus1]
 De Te velem vagy, Jézus, minden nap,
 Te vagy a fény, ha éjjel van,
 Te vagy a tűz a szívemben, ami ég!

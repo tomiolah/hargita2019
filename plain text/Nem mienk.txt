@@ -6,7 +6,7 @@ Megrendül az ég a hangunktól
 Tapsoljon a nép és ujjongjon
 Ez nem rólunk, Csak rólad szól!
 
-[chorus]
+[chorus1]
 Nem miénk, Csak Tiéd minden dicsőség
 Nem miénk, Csak Tiéd minden dicsőség
 
@@ -18,7 +18,7 @@ Küldd el szent tüzed, hogy így éghessünk
 Lássa meg a világ, hogy Te élsz bennünk
 Ez nem rólunk, Csak rólad szól
 
-[bridge]
+[bridge1]
 A föld megrendül,
 A hegy felzendül:
 Ez rólad szól!

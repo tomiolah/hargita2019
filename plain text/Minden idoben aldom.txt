@@ -6,7 +6,7 @@ Hallják ezt a szegények
 És együtt örülnek,
 Sietve asztalhoz ülnek.
 
-[chorus]
+[chorus1]
 Érezd és lásd,
 Hogy jó az Úr, kegyelme
 Az őt félőkön megmarad

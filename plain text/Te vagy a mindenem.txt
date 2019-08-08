@@ -9,7 +9,7 @@ Melyik istenben hinnék?
 Ha nem ismernélek Uram,
 Talán már nem is léteznék.
 
-[chorus]
+[chorus1]
 Te vagy nekem a tűz,
 Hosszú téli éjszakán.
 Te vagy a napfény,

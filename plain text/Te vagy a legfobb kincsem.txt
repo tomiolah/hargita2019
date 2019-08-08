@@ -1,4 +1,4 @@
-[verse]
+[verse1]
 Te vagy a legfőbb kincsem
 Ebben az életben.
 Hogy megismertelek, azzal
@@ -9,7 +9,7 @@ ismerlek már
 nekem nem kell más
 (Rajtad kívül nem kell más!)
 
-[chorus]
+[chorus1]
 A lelkemen ott ég ma is az a jel,
 Amit első érintésed égetett fel.
 Szerelmeddel átírtad holnapomat,

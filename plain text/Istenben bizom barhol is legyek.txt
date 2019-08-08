@@ -4,7 +4,7 @@ Száraz földön, háborgó tengeren.
 Jöjjön bármi, nap-nap után.
 Mennyei Atyám gondol énreám.
 
-[chorus]
+[chorus1]
 Bízom Benne, tudom, Ő gondol rám,
 Sivár hegyormon, sötét éjszakán.
 Bár vihar dúl, megőriz Ő,

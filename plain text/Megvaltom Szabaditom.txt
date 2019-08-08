@@ -9,7 +9,7 @@ Nyitva áll az ajtó,
 Elkészült az út
 A Mennyország felé!
 
-[chorus]
+[chorus1]
 Értem jöttél,
 Legyőzted a halált,
 Megnyílt már az út, 

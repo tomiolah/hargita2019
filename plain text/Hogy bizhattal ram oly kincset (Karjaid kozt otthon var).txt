@@ -6,7 +6,7 @@ Isten királyi trónjánál.
 És int felém két sebzett kéz –
 A Megváltó karjába zár.
 
-[chorus]
+[chorus1]
 Itt állok most trónodnál,
 Nincs több bűn, megváltottál!
 Jézus vérén át
@@ -29,7 +29,7 @@ Szépség, mit szem nem látott még.
 Száz és száz szó, száz és száz dal
 Nem írhatja le fenségét.
 
-[bridge]
+[bridge1]
 Szálljon fel hála és imádat,
 Szívünkben elmos minden vádat.
 Ó áldjuk Őt, áldjuk azt,

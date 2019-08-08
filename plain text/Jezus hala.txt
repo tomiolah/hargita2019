@@ -7,7 +7,7 @@ Fiad sújtotta,
 A halálkelyhem
 önként itta ki.
 
-[chorus]
+[chorus1]
 Drága vér mosta
 le bűneim,
 Jézus, hála!
@@ -28,6 +28,6 @@ Kegyelmed gazdagsága
 Te irgalmas vagy,
 azért nincs még vég!
 
-[bridge]
+[bridge1]
 Lelkem Megmentője,
 Vágyam, hogy érted éljek!

@@ -1,4 +1,4 @@
-[chorus]
+[chorus1]
 /: Hadd énekeljem
 Az Úrnak kegyelmét
 Örökké,
@@ -15,7 +15,7 @@ Az Úr dicsősége előtt,
 Leborulva zengd dicséretét.
 A mindenség.
 
-[chorus]
+[chorus1]
 /: Hadd énekeljem
 Az Úrnak kegyelmét
 Örökké,

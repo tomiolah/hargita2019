@@ -4,7 +4,7 @@ Egy szép, dicső hazába utazom.
 Az útra megvan a jegyem,
 Golgotán váltotta Jézus meg nekem.
 
-[chorus]
+[chorus1]
 Csillagtengeren túl, messze
 Dicsben ragyog
 A város, hol Mesteremmel
