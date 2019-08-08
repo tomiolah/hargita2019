@@ -27,6 +27,8 @@ lineM
 [tag2]
 ```
 
+Derived JSON structure:
+
 ```
 song: [
   tag: {
