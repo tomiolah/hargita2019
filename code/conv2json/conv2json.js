@@ -2,7 +2,8 @@ const fs = require('fs');
 const util = require('util');
 const os = require('os');
 
-const NL = os.EOL;
+// const NL = os.EOL;
+const NL = '\n';
 
 function getContent(file) {
   return fs.readFileSync(file, {encoding: 'utf-8'});
