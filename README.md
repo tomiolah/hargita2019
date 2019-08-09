@@ -36,7 +36,9 @@ songs: [
     parts: [
       {
         tag: string,
-        slides: [string]
+        slides: [
+	  [ string ]
+	]
       }
     ]
   }
