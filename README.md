@@ -29,11 +29,15 @@ lineM
 
 Derived JSON structure:
 
-```
-song: [
-  tag: {
-    slides: [
-      lines: []
+```typescript
+songs: [
+  {
+    title: string,
+    parts: [
+      {
+        tag: string,
+        slides: [string]
+      }
     ]
   }
 ]
