@@ -1,5 +1,8 @@
 const fs = require('fs');
 const util = require('util');
+const os = require('os');
+
+const NL = os.EOL;
 
 function getContent(file) {
   return fs.readFileSync(file, {encoding: 'utf-8'});
@@ -46,6 +49,66 @@ function parse(data, name) {
   return song;
 }
 
+// Save JSON data to file
+function saveJSON(json) {
+  if (fs.existsSync(`${__dirname}/json`)) {
+    fs.unlinkSync(`${__dirname}/json/songs.json`);
+    fs.rmdirSync(`${__dirname}/json`);
+  }
+
+  fs.mkdirSync(`${__dirname}/json`);
+  fs.writeFileSync(`${__dirname}/json/songs.json`, JSON.stringify(json));
+}
+
+// Transform tag to EW tag
+function transformTag2EW(tag) {
+  let end = `${NL}`;
+  let num = 0;
+  if (/.*[0-9]+/.test(tag)) {
+    end = ` ${tag[tag.length-1]}${NL}`;
+    num = 1;
+  }
+  let output = '';
+  let tag2 = tag;
+  output = `${tag.charAt(0).toUpperCase()}${tag2.slice(1,tag2.length-num)}`;
+  return output + end;
+}
+
+// Save in EW format, in separate files
+function saveEW(songs) {
+  fs.mkdirSync(`${__dirname}/ew`);
+
+  songs.forEach(song => {
+    console.log(song.title);
+    fs.writeFileSync(`${__dirname}/ew/${song.title}.txt`, song.text);
+  });
+}
+
+// Transform JSON to EW syntax
+function JSON2EW(data) {
+  let songsEW = [];
+  data.forEach(song => {
+    let { title } = song;
+    let output = '';
+    song.parts.forEach(tag => {
+      let tagEW = transformTag2EW(tag.tag);
+      output += tagEW;
+      tag.slides.forEach(slide => {
+        output += slide.join(NL) + NL + NL;
+      })
+    });
+    console.log(`${NL}${NL}----------------${NL}${title}${NL}----------------${NL}`);
+    console.log(output);
+    console.log();
+    songsEW.push({
+      title,
+      text: output,
+    });
+  });
+
+  return songsEW;
+}
+
 const songs = [];
 
 function main(args) {
@@ -69,7 +132,9 @@ function main(args) {
     });
   }
 
-  console.log(util.inspect(songs, { showHidden: false, depth: null }));
+  saveJSON(songs);
+  let ewsongs = JSON2EW(songs);
+  saveEW(ewsongs);
 }
 
 main(process.argv.splice(1,process.argv.length-1));
