@@ -23,13 +23,14 @@ function parse(data, name) {
     }
     let slides = [];
 
-    part.split('\n\n').forEach(slide => {
+    part.split(/\n[\r]*\n[\r]*/).forEach(slide => {
       let lines = slide.split('\n');
       let filteredLines = [];
       lines.forEach(line => {
         // Special rule for gender-specific parts
-        if (line === '(Lányok)' || line === '(Együtt)') filteredLines.push('');
-        if (line !== '') filteredLines.push(line);
+        // if (line === '(Lányok)' || line === '(Együtt)') filteredLines.push('');
+        let lineMod = line.replace('\r','');
+        if (lineMod !== '') filteredLines.push(lineMod);
       });
       slides.push(filteredLines);
     });
@@ -61,6 +62,121 @@ function saveJSON(json) {
   fs.writeFileSync(`${__dirname}/json/songs.json`, JSON.stringify(json));
 }
 
+
+
+const alphabet = [
+  'a', 'b', 'c',
+  'd', 'e', 'f',
+  'g', 'h', 'i',
+  'j', 'k', 'l',
+  'm', 'n', 'o',
+  'p', 'q', 'r',
+  's', 't', 'u',
+  'v', 'w', 'x',
+  'y', 'z'
+];
+
+
+// OpenLyrics
+function transformTag2OL(tag) {
+  if (tag==='end') return 'e';
+  if (['1','2','3','4','5','6','7','8','9','0'].includes(tag[tag.length-1])) return `${tag[0]}${tag[tag.length-1]}`;
+  else return `${tag[0]}`;
+}
+
+// Save in OL format, in separate files
+function saveOL(songs) {
+  fs.mkdirSync(`${__dirname}/openlyrics`);
+
+  songs.forEach(song => {
+    console.log(song.title);
+    fs.writeFileSync(`${__dirname}/openlyrics/${song.title}.xml`, song.text);
+  });
+}
+
+function orderOL(song) {
+  let output = '';
+  song.forEach(tag => {
+    if (output !== '') output += ' ';
+    let tagOL2 = transformTag2OL(tag.tag);
+    if (tag.slides.length === 1) {
+      output += tagOL2;
+    } else {
+      output += `${tagOL2}`;
+      // let it = 0;
+      // tag.slides.forEach(slide => {
+        // if (it > 0) output += ' ';
+        // output += `${tagOL2}${alphabet[it]}`;
+        // it++;
+      // });
+    }
+  });
+  console.log(output);
+  return output
+}
+
+// Transform Tag to OL syntax
+function tag2OL(tag) {
+  let output = '';
+  let tagOL = transformTag2OL(tag.tag);
+  output += ``;
+
+  if (tag.slides.length === 1) {
+    output += `<verse name="${tagOL}">`;
+    let slideOut = '<lines>';
+    tag.slides[0].forEach(line => {
+      let temp = line.trim();
+      if (temp !== '') slideOut += `${temp}<br/>`;
+    });
+    output += slideOut;
+    output += '</lines></verse>'
+  } else {
+    let it = 0;
+    tag.slides.forEach(slide => {
+      output += `<verse name="${tagOL}${alphabet[it]}">`;
+      it++;
+      let slideOut = '<lines>';
+      slide.forEach(line => {
+        let temp = line.trim();
+        if (temp !== '') slideOut += `${temp}<br/>`;
+      });
+      output += `${slideOut}</lines>`;
+      output += '</verse>'
+    });
+  }
+
+  return output;
+}
+
+// Transform JSON to OL syntax
+function JSON2OL(data) {
+  let songsOL = [];
+  data.forEach(song => {
+    let { title } = song;
+    let voltTag = [];
+    let output = `<?xml version='1.0' encoding='UTF-8'?><song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 1.9.0"><properties><verseOrder>${orderOL(song.parts)}</verseOrder><titles><title>${title}</title></titles></properties><lyrics>`;
+    song.parts.forEach(tag => {
+      if (!voltTag.includes(tag.tag)) {
+        voltTag.push(tag.tag);
+        output += tag2OL(tag);
+      }
+    });
+      output += '</lyrics></song>';
+      console.log();
+      console.log(output);
+      console.log();
+      songsOL.push({
+        title,
+        text: output,
+      });
+  });
+
+  return songsOL;
+}
+
+
+
+// EASY WORSHIP
 // Transform tag to EW tag
 function transformTag2EW(tag) {
   let end = `${NL}`;
@@ -134,8 +250,11 @@ function main(args) {
   }
 
   saveJSON(songs);
+
   let ewsongs = JSON2EW(songs);
   saveEW(ewsongs);
+  let olsongs = JSON2OL(songs);
+  saveOL(olsongs);
 }
 
 main(process.argv.splice(1,process.argv.length-1));
