@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T17:40:59">
+  <properties>
+    <titles>
+      <title>Latom az elo Jezust</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Látom az élő Jézust,<br/>Tűzfelhőben visszatér<br/>Hódol majd a mindenség<br/>Látom örök kegyelmét,<br/>Elfedezni vétkeink<br/>Megváltottak éneklik:<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hozsánna, Hozsánna,<br/>Hozsánna fent a mennyben!<br/>Hozsánna, Hozsánna,<br/>Hozsánna fent a mennyben!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Látok egy nemzedéket,<br/>Kik tudják mi az elhívás<br/>Egy szent népet,<br/>Mely hitben jár<br/>Imában térden állva,<br/>Kérjük Őt, hogy jöjjön el<br/>Az ébredés, ébredés<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Termts bennem új szivet,<br/>(Hadd) Lássam amit Te,<br/>Nyisd meg szemeimet!<br/>Hadd szeressek úgy,<br/>Mint Te szerettél<br/>Fájjon az, mi Neked fáj,<br/>Hogy elvégezzem azt,<br/>Amire elhívtál<br/>Hogy készen álljak<br/>Végül majd előtted!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

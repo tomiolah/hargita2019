@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T17:40:58">
+  <properties>
+    <titles>
+      <title>Egy hangon emeljuk fel (Felto Szerelmed)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 b2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Féltő szerelmed<br/>Hozott ki minket<br/>A sötét homályból<br/>Fényedre<br/>Fájdalmunk elmúlt<br/>Gyógyulást hoztál<br/>Szívünkbe<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Egy hangon emeljük fel<br/>Egy hangon dicsérjük Őt<br/>Egy hangon emeljük fel<br/>Zengjük Hallelujah!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>A láncok széttörnek,<br/>A szemek megnyílnak<br/>A sereged felkel<br/>És győztesen jár<br/>A halál legyőzve<br/>Győzelmet adtál,<br/>Mert feltámadtál<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Dicsérjük, mert felséges, felséges, felséges!<br/>Az Ő neve felséges, felséges, felséges!<br/></lines>
+    </verse>
+    <verse name="b2">
+      <lines>Dicsérjük, mert dicsőséges, dicsőséges, dicsőséges<br/>Az Ő neve dicsőséges, dicsőséges, dicsőséges<br/></lines>
+    </verse>
+  </lyrics>
+</song>

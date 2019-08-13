@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T18:28:19">
+  <properties>
+    <titles>
+      <title>Z409 Te vagy az Isten</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vagy az Isten, te vagy az Úr, <br/>Te vagy az elsõ, az utolsó.<br/>Te vagy a kezdet, te vagy a vég, <br/>Te vagy az élet, úgy imádlak én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert a hegyek leomlanak, <br/>De a te hûséged,<br/>Jézus mindörökké megmarad.<br/>Mert a sziklák leomlanak,<br/>De a te hûséged Jézus megmarad.</lines>
+    </verse>
+  </lyrics>
+</song>
