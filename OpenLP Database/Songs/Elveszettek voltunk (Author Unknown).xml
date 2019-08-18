@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T17:40:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-17T09:21:09">
   <properties>
     <titles>
       <title>Elveszettek voltunk</title>
@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Elveszettek voltunk,<br/>A sátán fogja voltunk,<br/>de kihozott a mélyből,<br/>A halál völgyéből.<br/>Jézus szeret minket,<br/>Oltalmába vesz minket,<br/>vigyáz ránk, mint anya<br/>Az egyszülött fiára.<br/></lines>
+      <lines>Elveszettek voltunk, a sátán fogja voltunk,<br/>De kihozott a mélyből, a halál völgyéből.<br/>Jézus szeret minket, oltalmába vesz minket,<br/>Vigyáz ránk, mint anya az egyszülött Fiára.</lines>
     </verse>
     <verse name="c1">
-      <lines>Jézus, visszavárlak,<br/>Jézus, Téged várlak,<br/>Jézus, Te vagy a mindenem,<br/>A mindenem.<br/></lines>
+      <lines>Jézus, visszavárlak,<br/>Jézus, Téged várlak,<br/>Jézus, Te vagy a mindenem,<br/>A mindenem.</lines>
     </verse>
     <verse name="v2">
-      <lines>Most élem a legszebb,<br/>A legszebb éveimet,<br/>Várom az Úr Jézust,<br/>Várom a Vőlegényem.<br/>Minden éjjel<br/>Felnézek az égre,<br/>Hogy mikor jön már<br/>Az én Vőlegényem.<br/></lines>
+      <lines>Most élem a legszebb, a legszebb éveimet,<br/>Várom az Úr Jézust, várom a Vőlegényem.<br/>Minden éjjel felnézek az égre,<br/>Hogy mikor jön már az én Vőlegényem.</lines>
     </verse>
   </lyrics>
 </song>

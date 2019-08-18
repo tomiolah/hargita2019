@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T17:40:59">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-17T08:41:17">
   <properties>
     <titles>
       <title>Remenysegem (Living Hope)</title>
@@ -11,16 +11,18 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>1. Távol kerültem jelenlétedtől,<br/>Nem volt remény, hogy elérjelek.<br/>Kétségbe esve kerestem arcod,<br/>Segítségül hívtam neved.<br/>Szerelmed áttört a sötétségen,<br/>Megérintetted lelkemet<br/>Ott, a kereszten meghaltál értem,<br/>Minden elvégeztetett.<br/></lines>
+      <lines break="optional">1. Távol kerültem jelenlétedtől,<br/>Nem volt remény, hogy elérjelek.<br/>Kétségbe esve kerestem arcod,<br/>Segítségül hívtam neved.</lines>
+      <lines>Szerelmed áttört a sötétségen,<br/>Megérintetted lelkemet<br/>Ott, a kereszten meghaltál értem,<br/>Minden elvégeztetett.</lines>
     </verse>
     <verse name="v2">
-      <lines>2. Felfoghatatlan, szerelmes Isten,<br/>Ki érthetné meg szándékait<br/>Dicsőségéről lemondott értem,<br/>Magára véve bűneim<br/>Meg lett bocsátva az összes vétkem,<br/>Saját fiának hív engem<br/>Csodás Megváltóm, mit is mondhatnék,<br/>Benned van reménységem.<br/></lines>
+      <lines break="optional">2. Felfoghatatlan, szerelmes Isten,<br/>Ki érthetné meg szándékait<br/>Dicsőségéről lemondott értem,<br/>Magára véve bűneim</lines>
+      <lines>Meg lett bocsátva az összes vétkem,<br/>Saját fiának hív engem<br/>Csodás Megváltóm, mit is mondhatnék,<br/>Benned van reménységem.</lines>
     </verse>
     <verse name="c1">
-      <lines>Halleluja, dicsérem az Egyetlent<br/>Halleluja, mindenért, mit értem tett<br/>Semmi nem tart fogva már,<br/>Elszakítva minden lánc<br/>Jézusban van a győzelmem!<br/></lines>
+      <lines>Halleluja, dicsérem az Egyetlent<br/>Halleluja, mindenért, mit értem tett<br/>Semmi nem tart fogva már,<br/>Elszakítva minden lánc<br/>Jézusban van a győzelmem!</lines>
     </verse>
     <verse name="v3">
-      <lines>3. Eljött az a reggel, összetört teste<br/>A sír mélyéből életre kelt<br/>Az első lélegzet már azt hirdette:<br/>Az élet győz a halál felett!<br/></lines>
+      <lines>3. Eljött az a reggel, összetört teste<br/>A sír mélyéből életre kelt<br/>Az első lélegzet már azt hirdette:<br/>Az élet győz a halál felett!</lines>
     </verse>
   </lyrics>
 </song>

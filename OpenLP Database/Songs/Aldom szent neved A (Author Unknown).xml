@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T18:27:38">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-17T12:43:13">
   <properties>
     <titles>
       <title>Aldom szent neved A</title>
     </titles>
+    <verseOrder>v1 b1 c1 v2 b1 c1 e1 b1 c1</verseOrder>
     <authors>
       <author>Author Unknown</author>
     </authors>

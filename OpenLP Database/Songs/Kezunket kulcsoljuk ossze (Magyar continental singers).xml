@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T18:27:48">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-17T11:46:06">
   <properties>
     <titles>
       <title>Kezunket kulcsoljuk ossze</title>
       <title>E foldre szulettunk</title>
     </titles>
+    <verseOrder>c1 v1 c1 v2 c1 b1 c2</verseOrder>
     <authors>
       <author>Magyar continental singers</author>
     </authors>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>E földre születtünk, hazánk itt védjük szeretjük<br/>Hisz oly sok vérbe került a szabadság<br/>Mégis félve él e nemzet és nincs remény sugár<br/><br/>Mert ha nem kap helyet Isten nincs tovább<br/>A bűn csak nő és terjed és győz a félhomály<br/>Ezért kell, hogy végre megértsük mi történt a Golgotán!</lines>
+      <lines>E földre születtünk, hazánk itt védjük szeretjük<br/>Hisz oly sok vérbe került a szabadság<br/>Mégis félve él e nemzet és nincs remény sugár<br/>Mert ha nem kap helyet Iste,n nincs tovább<br/><br/>A bűn csak nő és terjed és győz a félhomály<br/>Ezért kell, hogy végre megértsük mi történt a Golgotán!</lines>
     </verse>
     <verse name="c1">
       <lines>Kezünket kulcsoljuk össze, boruljunk térdre<br/>Imádsággal kezdjünk új csatát<br/>Szeretni és bizni kéne, most összefogni végre,<br/>E nép majd egyszer Isten mellé áll!</lines>

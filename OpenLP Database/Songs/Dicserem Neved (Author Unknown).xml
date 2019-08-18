@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T17:40:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-17T09:10:30">
   <properties>
     <titles>
       <title>Dicserem Neved</title>
@@ -11,7 +11,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Dicsérem neved,<br/>Míg csak élek, míg élek,<br/>Kősziklám vagy Te,<br/>Melyen állok, s nem rendülök meg,<br/>Magas helyeken<br/>Jártatsz engem, oly jó Veled<br/>Mert Te vagy<br/>Igazságom, hűséges Istenem.<br/></lines>
+      <lines>Dicsérem neved, míg csak élek, míg élek,<br/>Kősziklám vagy Te, melyen állok,<br/>S nem rendülök meg,<br/>Magas helyeken jártatsz engem, oly jó Veled<br/>Mert Te vagy Igazságom, hűséges Istenem.</lines>
     </verse>
     <verse name="v2">
       <lines>Ígéretedet elrejtettem a szívembe,<br/>Parancsolatod megőriztem és nem felejtem,<br/>Rendeléseid szemem előtt vannak szüntelen,<br/>Nem távozom el utadról sohasem.<br/></lines>

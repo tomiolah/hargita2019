@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T17:40:59">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-17T09:35:22">
   <properties>
     <titles>
       <title>Mily nagy az Isten szerelme</title>
@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>1. Mily nagy az Isten szerelme,<br/>Nem mérhető mértékkel,<br/>Hisz' egyszülött Fiát küldte,<br/>Hogy minket így megmentsen.<br/>Mily égető nagy fájdalom,<br/>Hogy Atyja rá nem nézhetett.<br/>Fiának vére így hozott,<br/>Sokaknak üdvösséget.<br/></lines>
+      <lines>1. Mily nagy az Isten szerelme,<br/>Nem mérhető mértékkel,<br/>Hisz' egyszülött Fiát küldte,<br/>Hogy minket így megmentsen.<br/>Mily égető nagy fájdalom,<br/>Hogy Atyja rá nem nézhetett.<br/>Fiának vére így hozott sokaknak üdvösséget.</lines>
     </verse>
     <verse name="v2">
-      <lines>2. Íme az Úr a kereszten,<br/>Ki bűnömet hordozza,<br/>És én ott lent a tömegben,<br/>Ki szent nevét gyalázza,<br/>A vétkeim tartották ott,<br/>Míg elvégezte tervét,<br/>Halála életet adott,<br/>Levette lelkem terhét.<br/></lines>
+      <lines>2. Íme az Úr a kereszten,<br/>Ki bűnömet hordozza,<br/>És én ott lent a tömegben,<br/>Ki szent nevét gyalázza,<br/>A vétkeim tartották ott,<br/>Míg elvégezte tervét,<br/>Halála életet adott, levette lelkem terhét.</lines>
     </verse>
     <verse name="v3">
-      <lines>3. Nem kérkedem már semmivel,<br/>Nem is dicsekszem mással,<br/>Csak Jézusom keresztjével,<br/>És feltámadásával.<br/>Miért kapok jutalmából?<br/>Én nem tudom, nem értem,<br/>Csak azt tudja a szívem jól,<br/>Hogy vére folyt énértem.<br/></lines>
+      <lines>3. Nem kérkedem már semmivel,<br/>Nem is dicsekszem mással,<br/>Csak Jézusom keresztjével,<br/>És feltámadásával.<br/>Miért kapok jutalmából?<br/>Én nem tudom, nem értem,<br/>Csak azt tudja a szívem jól, hogy vére folyt énértem.</lines>
     </verse>
   </lyrics>
 </song>
