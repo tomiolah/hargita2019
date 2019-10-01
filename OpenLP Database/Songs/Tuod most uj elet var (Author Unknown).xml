@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T17:41:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-24T19:56:01">
   <properties>
     <titles>
       <title>Tuod most uj elet var</title>
     </titles>
-    <verseOrder>v1 c1 v2</verseOrder>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
     <authors>
       <author>Author Unknown</author>
     </authors>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T17:41:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-23T17:37:05">
   <properties>
     <titles>
       <title>Vagyod-e elhagyni buneidet</title>
     </titles>
-    <verseOrder>v1 c1 v2 v3 v4</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v4 c1</verseOrder>
     <authors>
       <author>Author Unknown</author>
     </authors>
@@ -23,7 +23,7 @@
       <lines>3. Vágyod-e, hogy szíved tiszta legyen?<br/>Erre van erő, oly szent erő!<br/>Hogyan lehetsz hófehér, bűntelen?<br/>A Bárány vére az erő.<br/></lines>
     </verse>
     <verse name="v4">
-      <lines>4. Vágyod-e szolgálni hűn Uradat?<br/>Erre van erő, oly szent erő!<br/>Hálával áldani Őt minden nap?<br/>A Bárány vére az erő.<br/></lines>
+      <lines>Vágyod-e szolgálni hűn Uradat?<br/>Erre van erő, oly szent erő!<br/>Hálával áldani Őt minden nap?<br/>A Bárány vére az erő.<br/></lines>
     </verse>
   </lyrics>
 </song>

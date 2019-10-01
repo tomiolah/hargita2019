@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-17T08:41:17">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-22T07:53:18">
   <properties>
     <titles>
       <title>Remenysegem (Living Hope)</title>
     </titles>
-    <verseOrder>v1 v2 c1 v3</verseOrder>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
     <authors>
       <author>Author Unknown</author>
     </authors>
