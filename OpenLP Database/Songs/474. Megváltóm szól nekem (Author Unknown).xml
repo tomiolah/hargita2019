@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-08-10T18:27:22">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T16:12:56">
   <properties>
     <titles>
       <title>474. Megváltóm szól nekem</title>
     </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
     <authors>
       <author>Author Unknown</author>
     </authors>
@@ -23,6 +24,9 @@
     </verse>
     <verse name="v4">
       <lines>4. Ha érzem végnapom, <br/>Hogy ím itt a halál, <br/>Bátran elmondhatom; <br/>Jézus mellettem áll.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ó, áldom Őt,<br/>Ki megváltott,<br/>És a halálból kihozott!</lines>
     </verse>
   </lyrics>
 </song>
