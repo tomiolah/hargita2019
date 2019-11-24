@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:39">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-24T07:49:26">
   <properties>
     <titles>
       <title>Z409 Te vagy az Isten</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Te vagy az Isten, te vagy az Úr, <br/>Te vagy az elsõ, az utolsó.<br/>Te vagy a kezdet, te vagy a vég, <br/>Te vagy az élet, úgy imádlak én.</lines>
+      <lines>Te vagy az Isten, Te vagy az Úr, <br/>Te vagy az elsõ, az utolsó.<br/>Te vagy a kezdet, Te vagy a vég, <br/>Te vagy az élet, úgy imádlak én.</lines>
     </verse>
     <verse name="v2">
-      <lines>Mert a hegyek leomlanak, <br/>De a te hûséged,<br/>Jézus mindörökké megmarad.<br/>Mert a sziklák leomlanak,<br/>De a te hûséged Jézus megmarad.</lines>
+      <lines>Mert a hegyek leomlanak, <br/>De a Te hûséged,<br/>Jézus mindörökké megmarad.<br/>Mert a sziklák leomlanak,<br/>De a Te hûséged, Jézus megmarad.</lines>
     </verse>
   </lyrics>
 </song>
