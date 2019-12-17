@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-01T15:03:24">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-17T17:24:30">
   <properties>
     <titles>
       <title>Most keljetek fel ti is</title>
       <title>Keljeteke fel</title>
     </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <authors>
       <author>TMB</author>
     </authors>
