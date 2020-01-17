@@ -1,8 +1,13 @@
 # HARGITA 2019
 
+At first this repo started as a database for the 2019 Hargita Christian Youth Camp, but it kinda grew itself out. Now it contains at least **1865** songs - from classical hymns to modern worship songs.
+
+Also, it is free to use :)
+All you need is an installation of OpenLP, which is available on Windows, Linux and MacOS.
+
 ## OpenLP Database
 
-In the folder `OpenLP Database/Songs` you can find a continuously updating database of Church songs. Every song is in the OpenXML format (`*.xml`), that can be imported in OpenLP.
+In the folder `OpenLP Database/Songs` you can find a continuously updating database of Christian songs (mostly in Hungarian). Every song is in the OpenXML format (`*.xml`), that can be imported in OpenLP.
 
 Here are other file formats that you may encounter in the `OpenLP Database` folder:
 - `*.osz` - this is an OpenLP Schedule file, with a list of songs, that was / will be selected on a service / gathering
