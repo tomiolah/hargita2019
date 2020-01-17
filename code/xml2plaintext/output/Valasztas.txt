@@ -1,0 +1,35 @@
+Valasztas
+
+v1
+Borzási Pál
+Kelemen Sándor
+Kis-Juhász Vilmos
+Kiss Lehel
+Oláh Lajos
+Rajna Ottó
+Székely Béla
+
+v2
+Borzási Pál
+Kelemen Sándor
+Kis-Juhász Vilmos
+Oláh Lajos
+Rajna Ottó
+
+v3
+Kelemen Sándor
+Kis-Juhász Vilmos
+Oláh Lajos
+Rajna Ottó
+
+v4
+Kelemen Sándor
+Oláh Lajos
+
+v5
+Elnök: Borzási Pál
+Alelnök: Kis-Juhász Vilmos
+Titkár: Rajna Ottó
+Pénztáros: Oláh Lajos
+Kelemen Sándor
+
