@@ -24,6 +24,11 @@ class XMLFile:
       .replace("/", "_")
       .replace(",","")
       .replace(".","")
+      .replace("\\","")
+      .replace(":","")
+      .replace("!","")
+      .replace("@","")
+      .replace(" ","_")
     }.txt'''
     print(filename)
     with open(filename, 'w') as f:
