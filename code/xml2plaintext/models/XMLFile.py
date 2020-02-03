@@ -45,6 +45,16 @@ class XMLFile:
       .replace("ű","u")
       .replace("Í","I")
       .replace("í","i")
+      .replace("Ă","A")
+      .replace("ă","a")
+      .replace("Â","A")
+      .replace("â","a")
+      .replace("Î","I")
+      .replace("î","i")
+      .replace("Ț","T")
+      .replace("ț","t")
+      .replace("Ș","S")
+      .replace("ș","s")
     }.txt'''
     print(filename)
     with open(filename, 'w') as f:
