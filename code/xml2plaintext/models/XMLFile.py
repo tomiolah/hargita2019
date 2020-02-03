@@ -1,4 +1,6 @@
 from xml.dom import minidom
+import re, os
+
 rewrite_map = {
   # Hungarian characters
     # Uppercase | Lowercase
@@ -64,6 +66,8 @@ class XMLFile:
     return filtered
 
   def write_plaintext(self):
+    if not os.path.isdir('output'):
+      os.mkdir('output')
     filename = f'output/{self.filter_title(self.title)}.txt'
     print(filename)
     with open(filename, 'w') as f:
