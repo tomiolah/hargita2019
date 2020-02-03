@@ -1,5 +1,44 @@
 from xml.dom import minidom
-import re
+rewrite_map = {
+  # Hungarian characters
+    # Uppercase | Lowercase
+      'Á': 'A',    'á': 'a',
+      'É': 'E',    'é': 'e',
+      'Ö': 'O',    'ö': 'o',
+      'Ő': 'O',    'ő': 'o',
+      'Õ': 'O',    'õ': 'o',
+      'Ó': 'O',    'ó': 'o',
+      'Ú': 'U',    'ú': 'u',
+      'Ü': 'U',    'ü': 'u',
+      'Ű': 'U',    'ű': 'u',
+      'Í': 'I',    'í': 'i',
+      'Û': 'U',    'û': 'u',
+  # Romanian characters
+    # Uppercase | Lowercase
+      'Ă': 'A',    'ă': 'a',
+      'Â': 'A',    'â': 'a',
+      'Î': 'I',    'î': 'i',
+      'Ț': 'T',    'ț': 't',
+      'Ș': 'S',    'ș': 's',
+  # Special / puntuation characters
+    # Rewrite
+      ' ': '_', '. ': '_', # Rewrite spaces (no escaping needed in terminal)
+      '/': '_', # Prevent accidental path traversal
+      # Cosmetic replacements
+      '_-_':  '_', ' - ':  '_',
+      '_->_': '_', ' -> ': '_',
+      '__': '_', '_+_': '_', ' + ': '_',
+    # Remove
+      ',':  '',  '.':  '', # Standard punctuation characters
+      ':':  '',  '!':  '', '?': '', # Problematic characters (Windows)
+      # Other (potentially) problematic characters
+      '\'': '',  '"':  '',
+      '@':  '',  '\\': '',
+      '#':  '',  '&':  '',
+      '*':  '',  '%':  '',
+      '^':  '',  '$':  '',
+      '(':  '',  ')':  ''
+  }
 
 class XMLFile:
   def __init__(self, path: str):
@@ -18,44 +57,14 @@ class XMLFile:
       for i in xml_dom.getElementsByTagName('verse')
     }
 
+  def filter_title(self, title: str) -> str:
+    filtered = title.strip()
+    for to_replace in rewrite_map.keys():
+      filtered = filtered.replace(to_replace, rewrite_map[to_replace])
+    return filtered
+
   def write_plaintext(self):
-    filename = f'''output/{
-      self.title.replace(" ", "_")
-      .replace("/", "_")
-      .replace(",","")
-      .replace(".","")
-      .replace("\\","")
-      .replace(":","")
-      .replace("!","")
-      .replace("@","")
-      .replace(" ","_")
-      .replace("Á","A")
-      .replace("á","a")
-      .replace("É","E")
-      .replace("é","e")
-      .replace("Ö","O")
-      .replace("ö","o")
-      .replace("Ő","O")
-      .replace("ő","o")
-      .replace("Ó","O")
-      .replace("ó","o")
-      .replace("Ú","U")
-      .replace("ú","u")
-      .replace("Ű","U")
-      .replace("ű","u")
-      .replace("Í","I")
-      .replace("í","i")
-      .replace("Ă","A")
-      .replace("ă","a")
-      .replace("Â","A")
-      .replace("â","a")
-      .replace("Î","I")
-      .replace("î","i")
-      .replace("Ț","T")
-      .replace("ț","t")
-      .replace("Ș","S")
-      .replace("ș","s")
-    }.txt'''
+    filename = f'output/{self.filter_title(self.title)}.txt'
     print(filename)
     with open(filename, 'w') as f:
       f.writelines(self.title)
