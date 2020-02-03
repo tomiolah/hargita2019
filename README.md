@@ -3,7 +3,8 @@
 At first this repo started as a database for the 2019 Hargita Christian Youth Camp, but it kinda grew itself out. Now it contains at least **1865** songs - from classical hymns to modern worship songs.
 
 Also, it is free to use :)
-All you need is an installation of OpenLP, which is available on Windows, Linux and MacOS.
+
+All you need is an installation of [OpenLP](https://openlp.org/), which is available on Windows, Linux and MacOS.
 
 ## OpenLP Database
 
