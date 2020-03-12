@@ -21,7 +21,7 @@ If you want the lyrics from the XML files in plaintext, there is a convenient Py
 
 For now, the script only works on Linux and MacOS (it uses the `find` command with Python's `os.popen()` function), but feel free to add Windows support, too. :)
 
-Until then, you can find some songs that are generated, in the `code/xml2plaintext/output` folder - but I can't guarantee, that is is always up-to-date
+Until then, you can find some songs that are generated, in the `code/xml2plaintext/output` folder - but I can't guarantee, that it is always up-to-date
 
 # [HU] ADATBÁZIS HOZZÁADÁSA OPENLP-HEZ
 
