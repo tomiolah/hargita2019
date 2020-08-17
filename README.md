@@ -57,7 +57,7 @@ Until then, you can find some songs that are generated, in the `code/xml2plainte
 
     ![add_wizard3](media/add_wizard3.png)
 
-    Itt navigáljunk a letölltött repóban a következő útvonalra:
+    Itt navigáljunk a letöltött repóban a következő útvonalra:
     `<repo>/OpenLP Database/Songs/`
 
     Ebből a mappából adjunk hozzá minden éneket (XML állományok)
